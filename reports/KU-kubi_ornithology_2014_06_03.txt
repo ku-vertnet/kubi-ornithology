@@ -1,0 +1,193 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 1908
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 58
+	Country: Canada ; Times: 3
+	Country: Cyprus ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Philippines ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 141
+	Country: Unknown ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 4
+	Date: 2014-05-06 ; Times: 6
+	Date: 2014-05-07 ; Times: 13
+	Date: 2014-05-08 ; Times: 3
+	Date: 2014-05-09 ; Times: 4
+	Date: 2014-05-11 ; Times: 1
+	Date: 2014-05-12 ; Times: 6
+	Date: 2014-05-13 ; Times: 1
+	Date: 2014-05-14 ; Times: 4
+	Date: 2014-05-15 ; Times: 9
+	Date: 2014-05-16 ; Times: 17
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-19 ; Times: 5
+	Date: 2014-05-20 ; Times: 4
+	Date: 2014-05-21 ; Times: 23
+	Date: 2014-05-22 ; Times: 2
+	Date: 2014-05-23 ; Times: 10
+	Date: 2014-05-24 ; Times: 18
+	Date: 2014-05-26 ; Times: 2
+	Date: 2014-05-27 ; Times: 12
+	Date: 2014-05-28 ; Times: 49
+	Date: 2014-05-29 ; Times: 31
+	Date: 2014-05-30 ; Times: 13
+	Date: 2014-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "birds in zacatecas" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "KU 91573" ; Times: 2
+	Query: "xiphorhynchus fuscus" ; Times: 3
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "aegotheles cristatus" ; Times: 4
+	Query: "piranga bidentata type:specimen year >= 1950 year <= 2013" ; Times: 1
+	Query: "penelope obscura 2012" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "specificepithet:lugubris genus:Brachygalba institutioncode:KU" ; Times: 1
+	Query: "genus:Turdus institutioncode:KU" ; Times: 1
+	Query: "robbins two island" ; Times: 2
+	Query: "class:aves catalognumber:88623 institutioncode:KU" ; Times: 1
+	Query: "brachygalba" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 2
+	Query: ""stomach contents saved" class:Aves" ; Times: 10
+	Query: "Piranga roseogularis" ; Times: 2
+	Query: "great awk" ; Times: 2
+	Query: "genus:casuarius" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Bubo" ; Times: 9
+	Query: "piranga roseogularis type:specimen (male)" ; Times: 1
+	Query: "class:Aves catalognumber:87697 institutioncode:KU" ; Times: 1
+	Query: "KU 14905" ; Times: 2
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "KU 3297" ; Times: 2
+	Query: ""stomach contents" class:Aves institutioncode:KU" ; Times: 1
+	Query: "calyptorhynchus banksii" ; Times: 1
+	Query: "casuarius" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: ""stomach contents saved" class:Aves institutioncode:KU" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "colinus cristatus type:specimen" ; Times: 2
+	Query: "KU 90119" ; Times: 1
+	Query: "KU 13818" ; Times: 2
+	Query: "specificepithet:zeylonensis genus:Ketupa" ; Times: 6
+	Query: "tissue class:Aves institutioncode:KU" ; Times: 1
+	Query: "institutioncode:ku" ; Times: 1
+	Query: "tockus deckeni" ; Times: 2
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 8
+	Query: "penelope obscura" ; Times: 2
+	Query: ""Streptopelia decaocto" (tissue OR preserved)" ; Times: 1
+	Query: "hoazin" ; Times: 1
+	Query: "penelope obscura 1990" ; Times: 2
+	Query: "class:Aves catalognumber:87699 institutioncode:KU" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "penelope obscura 1986" ; Times: 2
+	Query: "priotelus" ; Times: 1
+	Query: "penelope obscura 1982" ; Times: 2
+	Query: "KU 94387" ; Times: 4
+	Query: "parotia wahnesi" ; Times: 6
+	Query: "piranga bidentata" ; Times: 1
+	Query: "Stachyris whiteheadi" ; Times: 1
+	Query: "casuarius year >= 1988" ; Times: 1
+	Query: "KU "NE flank Kusad Mountain"" ; Times: 1
+	Query: "specificepithet:bennetti genus:Casuarius (skeleton)" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "azureus" ; Times: 1
+	Query: "cairina" ; Times: 4
+	Query: "tissue institutioncode:KU" ; Times: 2
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 13
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "piranga rubriceps type:specimen (male)" ; Times: 1
+	Query: "emberizoides type:specimen institutioncode:ku" ; Times: 1
+	Query: "tachyphonus phoenicius" ; Times: 51
+	Query: "genus:Brachygalba" ; Times: 1
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "pogoniulus chrysoconus" ; Times: 1
+	Query: ""stomach content" class:Aves" ; Times: 1
+	Query: "KU 91415" ; Times: 4
+	Query: ""Setophaga kirtlandii" type:specimen" ; Times: 1
+	Query: "class:Aves catalognumber:87655 institutioncode:KU" ; Times: 1
+	Query: "syrigma 1999" ; Times: 2
+	Query: "catalognumber:66851 institutioncode:KU" ; Times: 2
+	Query: "M 45812" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "KU 3318" ; Times: 2
+	Query: ""harpactes ardens"" ; Times: 1
+	Query: "KU 90316" ; Times: 4
+	Query: "habia rubica" ; Times: 3
+	Query: "class:aves institutioncode:KU" ; Times: 2
+	Query: "goodwin new guinea" ; Times: 1
+	Query: "Falco columbarius maine" ; Times: 1
+	Query: "Amazilia rosenbergi" ; Times: 1
+	Query: "specificepithet:lugubris genus:Brachygalba" ; Times: 1
+	Query: "KU 91817" ; Times: 7
+	Query: "robbins grand manan" ; Times: 1
+	Query: ""Rhipidura rufifrons"" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1679 download events in this period)
+Total number of records downloaded: 418 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 405
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 5
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: "tachyphonus phoenicius" ; Times: 2
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "palenque" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 375
+Total number of records retrieved from searches: 3649
+Number of download events that retrieved data from the resource: 88
+Total number of records downloaded: 484803
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 375
+Total number of records retrieved from searches: 3649
+Number of download events that retrieved data from the resource: 136
+Total number of records downloaded: 512542
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
