@@ -1,0 +1,277 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 3673
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 13
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Guam ; Times: 6
+	Country: Mexico ; Times: 24
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 137
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 7
+	Date: 2014-09-03 ; Times: 20
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 28
+	Date: 2014-09-06 ; Times: 16
+	Date: 2014-09-07 ; Times: 6
+	Date: 2014-09-08 ; Times: 9
+	Date: 2014-09-09 ; Times: 10
+	Date: 2014-09-10 ; Times: 5
+	Date: 2014-09-11 ; Times: 9
+	Date: 2014-09-12 ; Times: 7
+	Date: 2014-09-13 ; Times: 4
+	Date: 2014-09-14 ; Times: 2
+	Date: 2014-09-15 ; Times: 36
+	Date: 2014-09-16 ; Times: 3
+	Date: 2014-09-17 ; Times: 16
+	Date: 2014-09-18 ; Times: 8
+	Date: 2014-09-19 ; Times: 7
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-22 ; Times: 12
+	Date: 2014-09-23 ; Times: 2
+	Date: 2014-09-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 13
+	Query: "rabbit" ; Times: 1
+	Query: "Tyrannus tyrannus institutioncode:KU" ; Times: 5
+	Query: "genus:zoothera" ; Times: 1
+	Query: "geothlypis velata tissue" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "type:specimen genus:aphelocoma institutioncode:KU" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 2
+	Query: "dicaeum australe" ; Times: 1
+	Query: "1933 marshall" ; Times: 1
+	Query: "Sylvilagus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Gavia type:specimen" ; Times: 2
+	Query: "Spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "sephanoides" ; Times: 1
+	Query: "birds Paraguay" ; Times: 1
+	Query: "elaenia chiriquensis" ; Times: 3
+	Query: "specificepithet:domesticus genus:Passer" ; Times: 5
+	Query: "Buteo jamaicensis" ; Times: 2
+	Query: "type:specimen genus:aphelocoma" ; Times: 1
+	Query: "ammodramus humeralis tissue" ; Times: 3
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "red squirrel" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014 mappable:1" ; Times: 1
+	Query: "Parotia wahnesi" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Ploceus galbula" ; Times: 1
+	Query: "rallus crepitans" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "sporophila plumbea tissue" ; Times: 1
+	Query: "Mongolia" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "kangaroo country:"Australia" year >= 1970 year <= 2014" ; Times: 2
+	Query: "Sphyrapicus ruber AND California AND (Mexico)" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:KU (egg)" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 14
+	Query: "celeus KU 3204" ; Times: 1
+	Query: "birds paraguay" ; Times: 2
+	Query: "syndactyla rufosuperciliata" ; Times: 2
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "murie" ; Times: 2
+	Query: "falco peregrinus type:specimen year >= 1800 year <= 1940" ; Times: 1
+	Query: "blb" ; Times: 1
+	Query: "sporophila leucoptera tissue" ; Times: 1
+	Query: "lagopus type:specimen" ; Times: 2
+	Query: "Mellisuga minima" ; Times: 1
+	Query: "stateprovince:"Wyoming" AND (NOT mammal*)" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "eudyptula minor" ; Times: 3
+	Query: "emberizoides herbicola tissue" ; Times: 1
+	Query: "genus:zoothera AND (NOT observation)" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1980 year <= 2014" ; Times: 3
+	Query: ""DMW" country:"Peru" specificepithet:superciliosus genus:Phaethornis institutioncode:KU year >= 1993 year <= 1993" ; Times: 1
+	Query: "ammodramus humeralis" ; Times: 1
+	Query: "pharomachrus fulgidus" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "celeus KU 304" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "Sporophila pileata mappable:1" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"California"" ; Times: 2
+	Query: "country:"Peru" specificepithet:superciliosus genus:Phaethornis institutioncode:KU year >= 1993 year <= 1993" ; Times: 1
+	Query: "catherpes" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "sturnella superciliaris tissue" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 2
+	Query: "class:Aves institutioncode:KU AND (NOT tissue)" ; Times: 1
+	Query: "accipiter castanilius" ; Times: 3
+	Query: "Tyrannus verticalis institutioncode:KU" ; Times: 1
+	Query: "dicaeum australe cebu" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "grand canyon" ; Times: 1
+	Query: "stateprovince:"CA"" ; Times: 1
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "HOUSE SPARROW" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "feather" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Malurus grayi" ; Times: 1
+	Query: "tangara cayana tissue" ; Times: 1
+	Query: "formicivora rufa tissue" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Hurley" ; Times: 1
+	Query: "oenanthe" ; Times: 1
+	Query: "sicalis luteola tissue" ; Times: 2
+	Query: "pipra filicauda type:specimen" ; Times: 1
+	Query: "recordedby:heinrich" ; Times: 1
+	Query: "buteo jamaicensis AND (calurus)" ; Times: 1
+	Query: "Aphelocoma Santa Barbara county" ; Times: 1
+	Query: "Tyrannus verticalis institutioncode:KU (eggs)" ; Times: 1
+	Query: "bee" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "SL" ; Times: 1
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 4
+	Query: "polytmus guainumbi tissue" ; Times: 1
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 2
+	Query: "picumnus cirratus tissue" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "douglas 1875" ; Times: 2
+	Query: "Rostrhamus sociabilis paraguay" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "sublegatus arenarum tissue" ; Times: 1
+	Query: "harpia harpyja country:"Mexico" mappable:1" ; Times: 1
+	Query: "hypsipetes philippinus cebu" ; Times: 1
+	Query: "asthenes ayacuchensis" ; Times: 1
+	Query: "Aphelocoma Santa Barbara" ; Times: 1
+	Query: "Telophorus dohertyi" ; Times: 2
+	Query: "pyrocephalus rubinus" ; Times: 3
+	Query: ""Passer domesticus"" ; Times: 1
+	Query: "asthenes vilcabambae" ; Times: 2
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "Falconidae type:specimen year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "Tyrannus forficatus institutioncode:KU" ; Times: 2
+	Query: "catharus fuscescens" ; Times: 2
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen mappable:1" ; Times: 1
+	Query: "(booth)" ; Times: 1
+	Query: "sturnella militaris tissue" ; Times: 1
+	Query: "tissue genus:Turdus class:Aves institutioncode:KU" ; Times: 3
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "Tyrannus verticalis type:specimen" ; Times: 1
+	Query: "(plumas OR feather)" ; Times: 3
+	Query: "Sporophila bouvreuil mappable:1" ; Times: 1
+	Query: "asthenes palpebralis" ; Times: 1
+	Query: "elaenia chiriquensis tissue" ; Times: 2
+	Query: "Passer domesticus" ; Times: 2
+	Query: "sphyrapicus ruber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 164 download events in this period)
+Total number of records downloaded: 5949 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5516
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-08 ; Times: 4
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-12 ; Times: 5
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 3
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-22 ; Times: 1
+	Date: 2014-09-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"california"" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "harpia harpyja country:"Mexico" mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"TEXAS" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "type:specimen stateprovince:"ARIZONA" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "distance(location,geopoint(34.04014265821739,-118.7127685546875))<7406.907814491575" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "tissue genus:Turdus class:Aves institutioncode:KU" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 990
+Total number of records retrieved from searches: 12495
+Number of download events that retrieved data from the resource: 206
+Total number of records downloaded: 576423
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 990
+Total number of records retrieved from searches: 12495
+Number of download events that retrieved data from the resource: 254
+Total number of records downloaded: 604162
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
