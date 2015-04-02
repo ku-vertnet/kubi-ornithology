@@ -1,0 +1,441 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 372
+Number of records retrieved in searches: 3724
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Brazil ; Times: 64
+	Country: Canada ; Times: 8
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 4
+	Country: Germany ; Times: 25
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Sweden ; Times: 5
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 229
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 7
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 7
+	Date: 2015-03-04 ; Times: 14
+	Date: 2015-03-05 ; Times: 27
+	Date: 2015-03-06 ; Times: 17
+	Date: 2015-03-07 ; Times: 24
+	Date: 2015-03-08 ; Times: 11
+	Date: 2015-03-09 ; Times: 12
+	Date: 2015-03-10 ; Times: 11
+	Date: 2015-03-11 ; Times: 15
+	Date: 2015-03-12 ; Times: 23
+	Date: 2015-03-13 ; Times: 27
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 10
+	Date: 2015-03-16 ; Times: 16
+	Date: 2015-03-17 ; Times: 8
+	Date: 2015-03-18 ; Times: 16
+	Date: 2015-03-19 ; Times: 5
+	Date: 2015-03-20 ; Times: 19
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-23 ; Times: 7
+	Date: 2015-03-24 ; Times: 10
+	Date: 2015-03-25 ; Times: 13
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 35
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-29 ; Times: 3
+	Date: 2015-03-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "lamprotornis caudatus" ; Times: 1
+	Query: "Chordeiles minor chapmani" ; Times: 1
+	Query: "ramphastos vitellinus ariel" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "type:specimen specificepithet:anhinga genus:Anhinga (spirit OR fluid)" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: "chicago passer domesticus year >= 1980 year <= 1990" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "rossii institutioncode:KU" ; Times: 1
+	Query: "picoides villosus" ; Times: 1
+	Query: "clangula" ; Times: 1
+	Query: "specificepithet:brachyura genus:Chaetura" ; Times: 5
+	Query: "amazonetta brasiliensis" ; Times: 2
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "oklahoma turner falls" ; Times: 3
+	Query: "wood duck" ; Times: 1
+	Query: "Sclerurus mexicanus brazil" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 2
+	Query: "kansas Passer domesticus type:specimen" ; Times: 1
+	Query: "KU 65395" ; Times: 1
+	Query: "branta institutioncode:KU (wing)" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "KU 42613" ; Times: 1
+	Query: "francolinus bicalcaratus year >= 1990 year <= 2015" ; Times: 1
+	Query: "KU 65393" ; Times: 1
+	Query: "country:"Solomon" institutioncode:KU" ; Times: 1
+	Query: "county:"orange" stateprovince:"California"" ; Times: 1
+	Query: "thryomanes bewickii" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 3
+	Query: "institutioncode:ku Poicephalus" ; Times: 6
+	Query: "culicicapa ceylonensis type:specimen mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "aves punctulatus" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Myzomela (tissue)" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "pteroglossus inscriptus inscriptus" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 2
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:cassinii genus:Vireo institutioncode:ku year <= 2015" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "specificepithet:lafargei genus:Myzomela (tissue)" ; Times: 1
+	Query: "manacus manacus country:"brazil"" ; Times: 1
+	Query: "Cyrtonyx montezumae stateprovince:"Chihuahua" country:"Mexico" year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "Dicaeum tristrami" ; Times: 1
+	Query: "Kansas Selander type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "plectrophenax nivalis" ; Times: 2
+	Query: "Formicarius colma" ; Times: 1
+	Query: "stateprovince:"NWT"" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "calidris mauri" ; Times: 1
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "specificepithet:pulchella genus:Myzomela (tissue)" ; Times: 1
+	Query: "Megapodius eremita" ; Times: 1
+	Query: "oklahoma kaw" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "Otus leucotis institutioncode:KU" ; Times: 1
+	Query: "pyriglena leuconota brazil" ; Times: 1
+	Query: "catalognumber:51975 institutioncode:ku" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "lsu" ; Times: 1
+	Query: "mosquito" ; Times: 1
+	Query: "harpagus diodon" ; Times: 1
+	Query: "astrapia year >= 1990 year <= 2015" ; Times: 1
+	Query: "catalognumber:3870 institutioncode:ku" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "North America Pyrocephalus rubinus" ; Times: 1
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "myrmornis brazil" ; Times: 2
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "KU 103220" ; Times: 1
+	Query: "lepidothrix coronata country:"ecuador"" ; Times: 1
+	Query: "stateprovince:"Rhode Island"" ; Times: 1
+	Query: "gavia immer" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "Tangara nigroviridis type:specimen (tissue)" ; Times: 1
+	Query: "Trogon rufus" ; Times: 2
+	Query: "stateprovince:"Kansas" specificepithet:plumbeus genus:Vireo institutioncode:ku year <= 2015" ; Times: 1
+	Query: "class:aves recordedby:koford year >= 1953 year <= 1953" ; Times: 1
+	Query: "Odontophorus balliviani" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "Megapodius eremita year >= 1980 year <= 2015" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "chicago" ; Times: 1
+	Query: "KU 65379" ; Times: 1
+	Query: "Falco mexicanus" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "Poicephalus kenya" ; Times: 2
+	Query: "Vireo cassinii" ; Times: 1
+	Query: "Oreortyx pictus" ; Times: 1
+	Query: "KU 97512" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "catalognumber:4998 institutioncode:ku" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "Anhinga anhinga type:specimen (fluid)" ; Times: 1
+	Query: "KU 97519" ; Times: 1
+	Query: "odontophorus year >= 1980 year <= 2015" ; Times: 1
+	Query: "passer domesticus stateprovince:"arizona"" ; Times: 1
+	Query: "Rhegmatorhina melanosticta" ; Times: 1
+	Query: "specificepithet:smyrnensis genus:Halcyon institutioncode:ku" ; Times: 1
+	Query: "Rynchops niger" ; Times: 2
+	Query: "heliodoxa gularis" ; Times: 1
+	Query: "institutioncode:ku" ; Times: 2
+	Query: "catalognumber:28909 institutioncode:KU" ; Times: 1
+	Query: "KU 97595" ; Times: 1
+	Query: "Birds pectoralis KU 11" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "Trogon rufus type:specimen year >= 1800 year <= 1914" ; Times: 1
+	Query: "type:specimen institutioncode:KU year >= 2014 year <= 2014" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 2
+	Query: "Cacomantis variolosus institutioncode:KU" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "suthora beaulieui" ; Times: 1
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "ku 121341" ; Times: 1
+	Query: "KU 65375" ; Times: 1
+	Query: "oxyura jamaicensis" ; Times: 1
+	Query: "KU 97505" ; Times: 1
+	Query: "ku arizona robbins" ; Times: 1
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "Pulsatrix institutioncode:KU" ; Times: 8
+	Query: "socorro new mexico" ; Times: 1
+	Query: "formicivora grisea tissue" ; Times: 1
+	Query: "bird skin sarawak" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "dendrortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "tricholestes" ; Times: 1
+	Query: "astrapia institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "Paradigalla institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "colinus country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "colinus cristatus panama year >= 1950 year <= 2015" ; Times: 1
+	Query: "Melanopareia torquata brazil" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax" ; Times: 1
+	Query: "country:"El Salvador" specificepithet:ciris genus:Passerina" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1889 year <= 1910" ; Times: 1
+	Query: "passer domesticus stateprovince:"delaware"" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "polystictus pectoralis tissue" ; Times: 3
+	Query: "coleoptera" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "type:specimen specificepithet:nobilis genus:chamaeza" ; Times: 1
+	Query: "KU 41411" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "oklahoma murray" ; Times: 2
+	Query: "colinus oaxaca" ; Times: 2
+	Query: "msb" ; Times: 1
+	Query: "type:specimen specificepithet:nigroviridis genus:Tangara year >= 1990 year <= 2015" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "oklahoma hemiptera" ; Times: 1
+	Query: "specificepithet:fossii genus:caprimulgus" ; Times: 1
+	Query: "dahli AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "catalognumber:3871 institutioncode:ku" ; Times: 1
+	Query: "Birds pectoralis KU 11125" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "brachygalba lugubris" ; Times: 1
+	Query: "Formicarius colma brazil" ; Times: 1
+	Query: "Heliodoxa gularis" ; Times: 1
+	Query: "hypocnemoides" ; Times: 2
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 6
+	Query: "KU 65414" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Myiothlypis fulvicauda type:specimen" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(43.91119007003743,-72.2900390625))<17706.79171425276" ; Times: 1
+	Query: "rallus longirostris" ; Times: 2
+	Query: "Cyrtonyx ocellatus" ; Times: 2
+	Query: "Foudia flavicans institutioncode:ku" ; Times: 1
+	Query: "Agapornis weight" ; Times: 3
+	Query: "culicicapa ceylonensis type:specimen (Skin) mappable:1" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Sternula antillarum athalassos" ; Times: 1
+	Query: "knipolegus orenocensis" ; Times: 2
+	Query: "harris county texas" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus year >= 1996 year <= 2015" ; Times: 1
+	Query: "specificepithet:sclateri genus:Myzomela (tissue)" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 2
+	Query: "Myrmotherula sunensis" ; Times: 1
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+	Query: "colinus guerrero" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "pulsatrix institutioncode:ku" ; Times: 1
+	Query: "Synthliboramphus" ; Times: 3
+	Query: "KU 65381" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "passerina leclancherii" ; Times: 1
+	Query: "Myrmeciza berlepschi" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Psittacula weight" ; Times: 5
+	Query: "dactylortyx" ; Times: 1
+	Query: "pipra pipra anthracina" ; Times: 1
+	Query: "Kansas type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Epimachus institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "Ciccaba" ; Times: 1
+	Query: "Aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "colinus pectoralis" ; Times: 1
+	Query: "georgia aves united states 1850" ; Times: 1
+	Query: "Parotia institutioncode:KU year >= 1990 year <= 2015" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "ku 223832" ; Times: 1
+	Query: "Foudia institutioncode:ku" ; Times: 1
+	Query: "Schistocichla saturata" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 4
+	Query: "ptilinopus solomonensis year >= 1990 year <= 2015" ; Times: 1
+	Query: "ramphastos ariel" ; Times: 2
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Ptilinopus solomonensis year >= 1980 year <= 2015" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Drymophila squamata" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:aves year >= 1990 year <= 2010" ; Times: 2
+	Query: "passerina ciris" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen" ; Times: 1
+	Query: "Aplonis metallica year >= 1980 year <= 2015" ; Times: 1
+	Query: "cyrtonyx montezumae" ; Times: 1
+	Query: "tissue genus:Turdus class:Aves institutioncode:KU" ; Times: 1
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "KU 65372" ; Times: 1
+	Query: "Heliodoxa xanthogonys type:specimen institutioncode:KU" ; Times: 1
+	Query: "Cyrtonyx montezumae mexico" ; Times: 1
+	Query: "type:specimen country:"guyana" institutioncode:KU year >= 2014 year <= 2014" ; Times: 2
+	Query: "Otus leucotis" ; Times: 1
+	Query: "KU 97487" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "specificepithet:pammelaena genus:Myzomela (tissue)" ; Times: 1
+	Query: "KU 61871" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Pyriglena leucoptera brazil" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 7
+	Query: "KU 97497" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "KU 97495" ; Times: 1
+	Query: "KU 97493" ; Times: 1
+	Query: "micropsitta finschii" ; Times: 1
+	Query: "county:"Montgomery" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "syrinx" ; Times: 1
+	Query: "Lanius cristatus Thailand" ; Times: 1
+	Query: "francolinus bicalcaratus year >= 1950 year <= 2015" ; Times: 2
+	Query: "KU 65380" ; Times: 1
+	Query: "KU 65374" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 8
+	Query: "KU 97498" ; Times: 1
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "Todiramphus leucopygius year >= 1990 year <= 2015" ; Times: 1
+	Query: "institutioncode:KU (spread wing)" ; Times: 1
+	Query: "Passer domesticus Kansas" ; Times: 1
+	Query: ""Sierra del Carmen" Coahuila Aves" ; Times: 1
+	Query: "Catharus mexicanus year >= 1933 year <= 1933" ; Times: 2
+	Query: "pipilo maculatus" ; Times: 3
+	Query: "conopophaga" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax" ; Times: 1
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 2
+	Query: "Conopophaga peruviana" ; Times: 1
+	Query: "Chordeiles minor year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 298 download events in this period)
+Total number of records downloaded: 124184 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 113841
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 10
+	Country: Canada ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 3
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 2
+	Date: 2015-03-26 ; Times: 6
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "specificepithet:cruentata genus:Myzomela" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"Solomon" institutioncode:KU" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "Molothrus ater obscurus county:"San diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2572
+Total number of records retrieved from searches: 37194
+Number of download events that retrieved data from the resource: 155
+Total number of records downloaded: 254042
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3001
+Total number of records retrieved from searches: 41350
+Number of download events that retrieved data from the resource: 479
+Total number of records downloaded: 1093625
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
