@@ -1,0 +1,596 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 765
+Number of records retrieved in searches: 6587
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 17
+	Country: Australia ; Times: 11
+	Country: Belgium ; Times: 7
+	Country: Brazil ; Times: 42
+	Country: Canada ; Times: 18
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Costa Rica ; Times: 4
+	Country: Czech Republic ; Times: 6
+	Country: France ; Times: 1
+	Country: Germany ; Times: 24
+	Country: Hungary ; Times: 1
+	Country: India ; Times: 11
+	Country: Mexico ; Times: 40
+	Country: Netherlands ; Times: 15
+	Country: Panama ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Thailand ; Times: 28
+	Country: United Kingdom ; Times: 49
+	Country: United States ; Times: 449
+	Country: Unknown ; Times: 30
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 27
+	Date: 2015-05-06 ; Times: 47
+	Date: 2015-05-07 ; Times: 24
+	Date: 2015-05-08 ; Times: 17
+	Date: 2015-05-09 ; Times: 13
+	Date: 2015-05-10 ; Times: 16
+	Date: 2015-05-11 ; Times: 75
+	Date: 2015-05-12 ; Times: 25
+	Date: 2015-05-13 ; Times: 22
+	Date: 2015-05-14 ; Times: 22
+	Date: 2015-05-15 ; Times: 35
+	Date: 2015-05-16 ; Times: 34
+	Date: 2015-05-17 ; Times: 17
+	Date: 2015-05-18 ; Times: 63
+	Date: 2015-05-19 ; Times: 16
+	Date: 2015-05-20 ; Times: 50
+	Date: 2015-05-21 ; Times: 13
+	Date: 2015-05-22 ; Times: 28
+	Date: 2015-05-23 ; Times: 19
+	Date: 2015-05-24 ; Times: 21
+	Date: 2015-05-25 ; Times: 25
+	Date: 2015-05-26 ; Times: 59
+	Date: 2015-05-27 ; Times: 34
+	Date: 2015-05-28 ; Times: 29
+	Date: 2015-05-29 ; Times: 14
+	Date: 2015-05-30 ; Times: 10
+	Date: 2015-05-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavia pacifica" ; Times: 1
+	Query: "county:"Douglas" stateprovince:"Kansas" specificepithet:carolinus genus:Euphagus" ; Times: 1
+	Query: "megascops guatemalae type:specimen" ; Times: 1
+	Query: "Platyrinchus saturatus brazil" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "myzomela pammelaena" ; Times: 4
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz)" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: "Basileuterus rufifrons chihuahua" ; Times: 1
+	Query: ""Turdus assimilis" type:specimen institutioncode:KU AND (Mexico)" ; Times: 1
+	Query: "3996" ; Times: 1
+	Query: "catalognumber:110610 institutioncode:KU" ; Times: 2
+	Query: "accipiter trivirgatus" ; Times: 2
+	Query: "copsychus malabaricus" ; Times: 11
+	Query: "type:specimen specificepithet:americana genus:grus" ; Times: 2
+	Query: "Limnodromus griseus" ; Times: 1
+	Query: "Todiramphus chloris albicilla type:specimen" ; Times: 1
+	Query: "Pipra chloromeros" ; Times: 2
+	Query: "pomatorhinus schisticeps" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "megascops vermiculatus type:specimen" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 7
+	Query: "falco sp type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 1925" ; Times: 1
+	Query: "Pipra mentalis 1910" ; Times: 1
+	Query: "Pyrocephalus rubinus type:specimen AND (bird)" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "turdus unicolor" ; Times: 2
+	Query: "gallicolumba criniger" ; Times: 1
+	Query: "24681 specificepithet:melodia" ; Times: 2
+	Query: "aves Georgia United States Cyanocitta cristata" ; Times: 1
+	Query: "Cyanomitra obscura" ; Times: 1
+	Query: "Catharus fuscescens institutioncode:KU (tissue)" ; Times: 1
+	Query: "Tolmomyias sulphurescens pallescens" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "genus:Platylophus" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 3
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Ciudad Juarez" ; Times: 9
+	Query: "9255" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "catalognumber:12226 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:lacertosa genus:Woodfordia institutioncode:KU" ; Times: 1
+	Query: "aythya nyroca" ; Times: 1
+	Query: "Nyctiphrynus yucatanicus type:specimen" ; Times: 1
+	Query: "Turdoides year >= 1980" ; Times: 2
+	Query: "" claudiae"" ; Times: 1
+	Query: "Crypturellus cinereus" ; Times: 1
+	Query: "amazilia beryllina chihuahua" ; Times: 1
+	Query: "Nucifraga columbiana Mexico" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 2
+	Query: "strigiformes country:"Mexico" year >= 1990 year <= 2000 mappable:1" ; Times: 1
+	Query: "talegalla institutioncode:ku" ; Times: 1
+	Query: "catalognumber:19410 institutioncode:KU" ; Times: 1
+	Query: "genus:rupicola mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "msb" ; Times: 2
+	Query: "genus:Todiramphus institutioncode:KU" ; Times: 13
+	Query: "ammodramus lecontei" ; Times: 1
+	Query: "Heliodoxa xanthogonys KU" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 7
+	Query: "Catharus fuscescens institutioncode:KU" ; Times: 1
+	Query: "corapipo altera country:"costa rica"" ; Times: 1
+	Query: "county:"Grays Harbor" year >= 1920 year <= 1930" ; Times: 1
+	Query: "University Wisconsin" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Talegalla" ; Times: 9
+	Query: "KU 112310" ; Times: 2
+	Query: "Phylloscartes nigrifrons" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Coracina striata" ; Times: 6
+	Query: "Psittacula" ; Times: 4
+	Query: "stateprovince:"alaska" class:aves recordedby:roseneau" ; Times: 1
+	Query: "country:"mariana" specificepithet:chloris genus:Todiramphus institutioncode:KU" ; Times: 1
+	Query: "Sitta carolinensis year <= 1937" ; Times: 1
+	Query: "Buteo jamaicensis KU type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Spizella+pallida+New Mexico" ; Times: 1
+	Query: "branta canadensis leucopareia" ; Times: 1
+	Query: "county:"churchill"" ; Times: 1
+	Query: "eumyias thalassinus" ; Times: 2
+	Query: "stateprovince:"Texas" genus:Buteo" ; Times: 1
+	Query: "falco sparverius road type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "catalognumber:28793 institutioncode:KU" ; Times: 1
+	Query: "Electron" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "aves Georgia United States Poecile carolinensis" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 4
+	Query: "Cyanomitra olivacea year >= 1940 year <= 2015 mappable:1" ; Times: 1
+	Query: "PELECANUS" ; Times: 1
+	Query: "falco sparverius KU type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 1
+	Query: "sycamore canyon stateprovince:"arizona" class:aves year >= 1950 year <= 1965" ; Times: 1
+	Query: "Spizella pallida United States New Mexico" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 2
+	Query: "distance(location,geopoint(30.13721055991247,-102.4090576171875))<100000" ; Times: 1
+	Query: "Megalaima australis SKIN" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 2000 year <= 2015 mappable:1" ; Times: 2
+	Query: "Alticola" ; Times: 1
+	Query: "catalognumber:12152 institutioncode:KU" ; Times: 1
+	Query: "selasphorus rufus type:specimen" ; Times: 1
+	Query: "university of michigan" ; Times: 4
+	Query: "myzomela tristrami" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 1
+	Query: "lanius cristatus institutioncode:ku" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" mappable:1" ; Times: 1
+	Query: "specificepithet:bernicla genus:Branta" ; Times: 1
+	Query: "genus:Todiramphus institutioncode:KU 104172" ; Times: 1
+	Query: "genus:Todiramphus institutioncode:KU 104178" ; Times: 1
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "specificepithet:hudsonicus" ; Times: 1
+	Query: "distance(location,geopoint(30.625308387685493,-101.337890625))<100000" ; Times: 1
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 2010" ; Times: 3
+	Query: "ammodramus leconteii" ; Times: 2
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "turdoides striatus" ; Times: 4
+	Query: "thamnophilus cryptoleucus" ; Times: 4
+	Query: "country:"PHILIPPINES" specificepithet:chloris genus:Todiramphus institutioncode:KU" ; Times: 1
+	Query: "country:"PALAU" genus:Todiramphus institutioncode:KU" ; Times: 1
+	Query: "Pipra erythrocephala 1392" ; Times: 1
+	Query: "cuculus canorus" ; Times: 1
+	Query: "Dicaeum hypoleucum" ; Times: 1
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "Megascops vermiculatus type:specimen" ; Times: 1
+	Query: "hypogramma" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "poicephalus gonads" ; Times: 3
+	Query: "cinclidae" ; Times: 1
+	Query: "Spizella pallida+New Mexico" ; Times: 1
+	Query: "Serpophaga subcristata brazil" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Leptopogon amaurocephalus brazil" ; Times: 1
+	Query: "Myiophobus fasciatus brazil" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton" ; Times: 1
+	Query: "Pipra mentalis 2085" ; Times: 1
+	Query: "Pyrocephalus rubinus AND (bird)" ; Times: 1
+	Query: "strigiformes stateprovince:"quintana roo" country:"Mexico" year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "Myiobius barbatus brazil" ; Times: 2
+	Query: "vireo flavoviridis" ; Times: 2
+	Query: ""Setophaga chrysoparia" type:specimen institutioncode:ku" ; Times: 1
+	Query: "institutioncode:ku" ; Times: 1
+	Query: "stateprovince:"alaska" year >= 1890 year <= 1904" ; Times: 1
+	Query: "Pachyramphus castaneus" ; Times: 2
+	Query: "university of wisconsin" ; Times: 2
+	Query: "grus grus" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 6
+	Query: "Cuculus canorus Kenya" ; Times: 1
+	Query: "Megalaima australis australis SKIN" ; Times: 1
+	Query: "elasson" ; Times: 1
+	Query: "Archbold Biological Station" ; Times: 5
+	Query: "olive sparrow" ; Times: 1
+	Query: "distance(location,geopoint(38.10855564432736,-122.74200439453125))<22137" ; Times: 1
+	Query: "institutioncode:ku class:aves" ; Times: 1
+	Query: "Troglodytes year >= 1946 year <= 1946" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "clamator coromandus" ; Times: 3
+	Query: "Didelphis "AL" type:specimen institutioncode:KU" ; Times: 1
+	Query: "catalognumber:28044 institutioncode:KU" ; Times: 1
+	Query: "county:"Northumberland" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Antrostomus badius" ; Times: 1
+	Query: "meleagris gallopavo" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1960 year <= 2015 mappable:1" ; Times: 1
+	Query: "Selasphorus platycercus stateprovince:"Chiapas"" ; Times: 1
+	Query: "ficedula albicilla" ; Times: 3
+	Query: "amphispiza belli belli" ; Times: 1
+	Query: "10270" ; Times: 2
+	Query: "catalognumber:110611 institutioncode:KU" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 4
+	Query: "phaeomyias murina brazil" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "catalognumber:58707 institutioncode:KU" ; Times: 2
+	Query: "strigiformes stateprovince:"quintana roo" country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "specificepithet:montanus genus:Zosterops institutioncode:KU" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 5
+	Query: "rupicola peruviana" ; Times: 2
+	Query: "stateprovince:"Kansas" specificepithet:mexicanus genus:Quiscalus" ; Times: 1
+	Query: "Phylloscartes parkeri" ; Times: 5
+	Query: "chloroptera weight" ; Times: 2
+	Query: "porzana porzana" ; Times: 1
+	Query: ""Poecile atricapillus" type:specimen institutioncode:ku" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 4
+	Query: "ohio state university" ; Times: 1
+	Query: "squamata institutioncode:KU (skeleton OR dry OR skull)" ; Times: 1
+	Query: "Dendrocopos atratus" ; Times: 1
+	Query: ""rio blanco" country:"Ecuador" class:Aves" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "yellow warbler" ; Times: 1
+	Query: "poecilotriccus sylvia" ; Times: 4
+	Query: ""Coracina striata"" ; Times: 21
+	Query: "san carlos" ; Times: 1
+	Query: "KU 98629" ; Times: 3
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Hemitriccus margaritaceiventer brazil" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 2
+	Query: "turdoides affinis" ; Times: 5
+	Query: "KU 69831" ; Times: 2
+	Query: "specificepithet:stresemanni genus:Zosterops institutioncode:KU" ; Times: 1
+	Query: "Falco sparverius type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 2
+	Query: "Megalaima henricii SKIN" ; Times: 1
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "1822" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "Laoensis" ; Times: 1
+	Query: "Parotia wahnesi" ; Times: 1
+	Query: "lanius collurio" ; Times: 2
+	Query: "anser indicus" ; Times: 1
+	Query: "Aegolius year >= 1936 year <= 1936" ; Times: 1
+	Query: "talegalla" ; Times: 1
+	Query: "Pipra mentalis 2001" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "county:"Hill" stateprovince:"Texas"" ; Times: 1
+	Query: "icterus wagleri chihuahua" ; Times: 1
+	Query: "Megascops guatemalae type:specimen" ; Times: 1
+	Query: "Spizella pallida New Mexico" ; Times: 1
+	Query: "Richardson class:Aves" ; Times: 1
+	Query: "Tolmomyias sulphurescens brazil" ; Times: 1
+	Query: "myrmeciza hemimelaena" ; Times: 2
+	Query: "KU 25127" ; Times: 2
+	Query: "Poecilotriccus plumbeiceps brazil" ; Times: 2
+	Query: "genus:Stiphrornis" ; Times: 1
+	Query: "locustella certhiola" ; Times: 6
+	Query: "genus:Todiramphus institutioncode:KU 104181" ; Times: 1
+	Query: "Actenoides hombroni" ; Times: 1
+	Query: "catalognumber:58834 institutioncode:KU" ; Times: 2
+	Query: "Cyanomitra olivacea" ; Times: 3
+	Query: "11093" ; Times: 1
+	Query: "Aechmophorus" ; Times: 2
+	Query: "Pipra cornuta 3960" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "plumbeiceps brazil" ; Times: 1
+	Query: "Harpactes kasumba" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 11
+	Query: "Cyanomitra olivacea year >= 1940 year <= 2015" ; Times: 7
+	Query: "Euscarthmus meloryphus brazil" ; Times: 1
+	Query: "condor year >= 1850 year <= 1950" ; Times: 1
+	Query: "certhia americana year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "Pipra mentalis 1895" ; Times: 1
+	Query: "Hemitriccus obsoletus brazil" ; Times: 1
+	Query: "stiphrornis" ; Times: 1
+	Query: "bees" ; Times: 1
+	Query: "Nyctiphrynus ocellatus" ; Times: 1
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: "KU 115241" ; Times: 1
+	Query: "Wall Lake New Mexico" ; Times: 1
+	Query: "lanius cristatus x" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "specificepithet:santaecrucis genus:Zosterops institutioncode:KU" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "strigiformes stateprovince:"zacatecas" country:"Mexico" year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "Didelphis institutioncode:KU" ; Times: 1
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "hemignathus SKIN" ; Times: 1
+	Query: "specificepithet:cinnamominus genus:Todiramphus institutioncode:KU" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 6
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "pterocles exustus" ; Times: 6
+	Query: "Cathartes aura" ; Times: 1
+	Query: "Euphonia chlorotica" ; Times: 2
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: ""platyrhynchos x "" ; Times: 1
+	Query: "Cordova" ; Times: 1
+	Query: "Calamospiza Chihuahua" ; Times: 1
+	Query: "Sitta carolinensis" ; Times: 2
+	Query: "Myiornis auricularis brazil" ; Times: 1
+	Query: "Myiobius atricaudus brazil" ; Times: 1
+	Query: "specificepithet:assimilis genus:Turdus institutioncode:KU year >= 1900 year <= 2015" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 3
+	Query: "Otidiphaps nobilis" ; Times: 27
+	Query: "stateprovince:"Kansas" specificepithet:carolinus genus:Euphagus" ; Times: 2
+	Query: "Pardirallus maculatus type:specimen" ; Times: 1
+	Query: "specificepithet:pileata genus:Timalia institutioncode:KU" ; Times: 1
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "cyanoptila cumatilis" ; Times: 1
+	Query: "Calidris fuscicollis New Mexico" ; Times: 2
+	Query: "Terenotriccus erythrurus brazil" ; Times: 1
+	Query: "coereba flaveola" ; Times: 2
+	Query: "thomomys" ; Times: 3
+	Query: "122533" ; Times: 1
+	Query: "catalognumber:58062 institutioncode:KU" ; Times: 2
+	Query: "r-87381" ; Times: 1
+	Query: "specificepithet:everetti genus:Zosterops institutioncode:KU" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 4
+	Query: "vireo bellii california" ; Times: 2
+	Query: ""Archbold Biological Station" type:specimen class:Aves" ; Times: 1
+	Query: ""Casuarius casuarius" type:specimen institutioncode:ku" ; Times: 1
+	Query: "Spizella+pallida+United States+Washington" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "Nyctiphrynus yucatanicus" ; Times: 2
+	Query: "catalognumber:3226 institutioncode:ku" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 7
+	Query: "Platyrinchus mystaceus brazil" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "turdus obscurus" ; Times: 2
+	Query: "52375" ; Times: 1
+	Query: "Serpophaga subcristata" ; Times: 1
+	Query: "year >= 2015" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 3
+	Query: "amphispiza belli" ; Times: 1
+	Query: "Picus vittatus" ; Times: 1
+	Query: "gallicolumba criniger skin" ; Times: 1
+	Query: "genus:rupicola" ; Times: 2
+	Query: "specificepithet:albogularis genus:Abroscopus institutioncode:KU" ; Times: 1
+	Query: "specificepithet:chloris genus:Todiramphus institutioncode:KU" ; Times: 4
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "cinclus mexicanus" ; Times: 4
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "8524" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 2
+	Query: "Oregon state university" ; Times: 1
+	Query: "catalognumber:10667 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:meyeni genus:Zosterops institutioncode:KU" ; Times: 1
+	Query: "Dendragapus obscurus" ; Times: 1
+	Query: ""Archbold Biological Station"" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 2
+	Query: "penelope obscura" ; Times: 1
+	Query: "todirostrum chrysocrotaphum" ; Times: 2
+	Query: "sclerurus mexicanus" ; Times: 1
+	Query: "Contopus sordidulus saturatus" ; Times: 1
+	Query: "Dendragapus obscurus COLORADO year >= 1800 year <= 1910" ; Times: 1
+	Query: "Birds from Peru" ; Times: 1
+	Query: "country:"fiji" specificepithet:chloris genus:Todiramphus institutioncode:KU" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "arachnothera clarae" ; Times: 1
+	Query: "penelope superciliaris" ; Times: 2
+	Query: "Bubo scandiacus type:specimen" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "funereus SKIN" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "country:"Fiji" specificepithet:chloris genus:Todiramphus institutioncode:KU" ; Times: 9
+	Query: "coleoptera" ; Times: 2
+	Query: "septentrionalis kansas" ; Times: 2
+	Query: "pulsatrix" ; Times: 22
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 3
+	Query: "pionus sordidus" ; Times: 1
+	Query: "Megascops guatemalae" ; Times: 1
+	Query: "chlorophanes KU 2014" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus (tissue)" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "county:"Douglas" specificepithet:galbula genus:Icterus year >= 1850 year <= 1955" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Nucifraga columbiana" ; Times: 3
+	Query: "Buteo rufinus" ; Times: 1
+	Query: "formicivora rufa tissue" ; Times: 1
+	Query: "PELECANUS OCCIDENTALIS" ; Times: 2
+	Query: "anthus lutescens" ; Times: 4
+	Query: "genus:Todiramphus institutioncode:KU 14879" ; Times: 1
+	Query: "Todiramphus recurvirostris" ; Times: 2
+	Query: "genus:Todiramphus institutioncode:KU 14877" ; Times: 1
+	Query: ""Setophaga kirtlandii" type:specimen" ; Times: 1
+	Query: "dicaeum ignipectus" ; Times: 1
+	Query: "Catharus fuscescens (tissue)" ; Times: 1
+	Query: "strigiformes stateprovince:"zacatecas" country:"Mexico" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:Corvus (skin) mappable:1" ; Times: 2
+	Query: "Megascops barbarus" ; Times: 2
+	Query: "Tachycineta bicolor" ; Times: 22
+	Query: "dicaeum trigonostigma" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 1
+	Query: "seicercus burkii" ; Times: 1
+	Query: "university of alberta" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Pachyramphus aglaiae gravis" ; Times: 1
+	Query: "cistothorus platensis distance(location,geopoint(45.21816366718811,-93.97705078125))<306641" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "calidris melanotos" ; Times: 2
+	Query: "Arachnothera flavigaster" ; Times: 2
+	Query: "MACN" ; Times: 1
+	Query: "Turdoides type:specimen year >= 1980" ; Times: 1
+	Query: "lanius collurio institutioncode:ku" ; Times: 1
+	Query: "specificepithet:rubinus genus:Pyrocephalus" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "vulcania" ; Times: 1
+	Query: "zoothera dauma" ; Times: 3
+	Query: "Todirostrum poliocephalum brazil" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 2
+	Query: "ampelion rufaxilla country:"colombia"" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "escudo de veraguas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 976 download events in this period)
+Total number of records downloaded: 42448 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 22854
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 3
+	Country: France ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 17
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 4
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 13
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 5
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-27 ; Times: 5
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanomitra olivacea" ; Times: 1
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "hypogramma" ; Times: 1
+	Query: "phaeomyias murina brazil" ; Times: 1
+	Query: "Catharus fuscescens institutioncode:KU (tissue)" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Heliodoxa xanthogonys KU" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "Myiophobus fasciatus brazil" ; Times: 1
+	Query: "stiphrornis" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "samar aves" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "specificepithet:assimilis genus:Turdus institutioncode:KU year >= 1900 year <= 2015" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1989 year <= 2015" ; Times: 5
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "klages brazil year >= 1920" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "Didelphis institutioncode:KU" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "genus:Todiramphus institutioncode:KU" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "escudo de veraguas" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3337
+Total number of records retrieved from searches: 43781
+Number of download events that retrieved data from the resource: 226
+Total number of records downloaded: 296490
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3766
+Total number of records retrieved from searches: 47937
+Number of download events that retrieved data from the resource: 550
+Total number of records downloaded: 1136073
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
