@@ -1,0 +1,53 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crypturellus bartletti" ; Times: 1
+	Query: "crypturellus brevirostris" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4479
+Total number of records retrieved from searches: 53895
+Number of download events that retrieved data from the resource: 376
+Total number of records downloaded: 310001
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4908
+Total number of records retrieved from searches: 58051
+Number of download events that retrieved data from the resource: 700
+Total number of records downloaded: 1149584
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
