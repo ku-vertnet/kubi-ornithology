@@ -1,0 +1,617 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 539
+Number of records retrieved in searches: 4766
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 112
+	Country: Canada ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 17
+	Country: Panama ; Times: 2
+	Country: France ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 22
+	Country: Norway ; Times: 3
+	Country: Germany ; Times: 13
+	Country: Netherlands ; Times: 7
+	Country: Denmark ; Times: 11
+	Country: United States ; Times: 276
+	Country: Sweden ; Times: 5
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 5
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 17
+	Date: 2015-11-18 ; Times: 28
+	Date: 2015-11-30 ; Times: 26
+	Date: 2015-11-03 ; Times: 24
+	Date: 2015-11-11 ; Times: 8
+	Date: 2015-11-10 ; Times: 14
+	Date: 2015-11-13 ; Times: 25
+	Date: 2015-11-12 ; Times: 39
+	Date: 2015-11-15 ; Times: 10
+	Date: 2015-11-14 ; Times: 15
+	Date: 2015-11-17 ; Times: 14
+	Date: 2015-11-16 ; Times: 14
+	Date: 2015-11-27 ; Times: 20
+	Date: 2015-11-20 ; Times: 19
+	Date: 2015-11-21 ; Times: 16
+	Date: 2015-11-22 ; Times: 14
+	Date: 2015-11-23 ; Times: 20
+	Date: 2015-11-08 ; Times: 5
+	Date: 2015-11-09 ; Times: 33
+	Date: 2015-11-28 ; Times: 9
+	Date: 2015-11-29 ; Times: 12
+	Date: 2015-11-02 ; Times: 7
+	Date: 2015-11-25 ; Times: 9
+	Date: 2015-11-26 ; Times: 23
+	Date: 2015-11-01 ; Times: 5
+	Date: 2015-11-06 ; Times: 29
+	Date: 2015-11-07 ; Times: 6
+	Date: 2015-11-04 ; Times: 45
+	Date: 2015-11-05 ; Times: 18
+	Date: 2015-11-24 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Ochthoeca diadema" ; Times: 1
+	Query: "minnesota Dryocopus" ; Times: 1
+	Query: "aythya collaris institutioncode:KU" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "28850" ; Times: 1
+	Query: "Douglas Fir" ; Times: 1
+	Query: "setophaga" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 1
+	Query: "loxigilla" ; Times: 1
+	Query: "Myiothlypis leucoblephara" ; Times: 1
+	Query: "Thraupis cyanoptera" ; Times: 1
+	Query: "Bangsia arcaei" ; Times: 1
+	Query: "1491" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "Arremon taciturnus brazil" ; Times: 1
+	Query: "Amazilia lactea mappable:1" ; Times: 2
+	Query: "Turdus fumigatus" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (himalayana) year &gt;= 1960" ; Times: 1
+	Query: "edmonson" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "ku 112482" ; Times: 2
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "8934" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "plegadis falcinellus" ; Times: 1
+	Query: "Platalea ajaja eggs" ; Times: 1
+	Query: "euplectes type:specimen preparations:skin institutioncode:KU" ; Times: 1
+	Query: "ku 35059" ; Times: 1
+	Query: "ku 35058" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "KU 11678" ; Times: 1
+	Query: "pike county missouri" ; Times: 1
+	Query: "Laniocera hypopyrra mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Alaska&#34; (Bay)" ; Times: 1
+	Query: "Melophus type:specimen class:Aves" ; Times: 1
+	Query: "Myiopagis gaimardii" ; Times: 1
+	Query: "capito auratus mappable:1" ; Times: 1
+	Query: "KU 9779" ; Times: 1
+	Query: "genus:Dendrocygna preparations:skeleton" ; Times: 1
+	Query: "genus:Histrionicus preparations:skeleton" ; Times: 1
+	Query: "type:specimen genus:Celeus family:Picidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "74990" ; Times: 1
+	Query: "catalognumber:20350 institutioncode:KU" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "egypt" ; Times: 1
+	Query: "Phalacrocorax brasilianus institutioncode:KU" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus NOT platycercus NOT calliope NOT flammula NOT scintilla)" ; Times: 1
+	Query: "adelaidae" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 2
+	Query: "rollandia rolland institutioncode:KU" ; Times: 1
+	Query: "catalognumber:18740" ; Times: 2
+	Query: "genus:Tachyeres" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "19118" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "tyrannus forficatus arkansas" ; Times: 1
+	Query: "Spheniscus" ; Times: 1
+	Query: "family:Cracidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; year &gt;= 1900 year &lt;= 1999" ; Times: 1
+	Query: "melophus type:specimen" ; Times: 1
+	Query: "sporophila plumbea" ; Times: 3
+	Query: "type:specimen (selasphorus) AND (NOT scintilla AND NOT ardens AND NOT flammula AND NOT platycerus AND NOT rufus AND NOT calliope)" ; Times: 1
+	Query: "distance(location,geopoint(31.10154970081504,-103.4197998046875))&lt;100000" ; Times: 1
+	Query: "Numenius borealis" ; Times: 10
+	Query: "28862" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (terrisi) year &gt;= 1900" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope)" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (himalayana)" ; Times: 1
+	Query: "terpsiphone paradisi" ; Times: 2
+	Query: "ispidina picta" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Picumnus cirratus mappable:1" ; Times: 1
+	Query: "type:specimen genus:Pyrrhura order:Psittaciformes country:&#34;panama&#34; year &gt;= 1980" ; Times: 1
+	Query: "rollandia rolland" ; Times: 1
+	Query: "Campylopterus pampa" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Pionopsitta)" ; Times: 1
+	Query: "aethopyga siparaja" ; Times: 2
+	Query: "acrocephalus agricola" ; Times: 1
+	Query: "acrocephalus orientalis -australia" ; Times: 2
+	Query: "Phalacrocorax atriceps institutioncode:KU" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "Lioparus chrysotis" ; Times: 1
+	Query: "Edmonson" ; Times: 1
+	Query: "Phalacrocorax auritus institutioncode:KU" ; Times: 1
+	Query: "Heterophasia desgodinsi" ; Times: 1
+	Query: "Pomatorhinus ruficollis" ; Times: 1
+	Query: "bird Transilvania" ; Times: 1
+	Query: "Nycticorax nycticorax eggs" ; Times: 1
+	Query: "pulsatrix institutioncode:KU" ; Times: 6
+	Query: "grallaria ridgelyi" ; Times: 1
+	Query: "aythya fuligula india" ; Times: 1
+	Query: "phylloscopus tytleri" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "genus:Plectropterus preparations:skeleton" ; Times: 1
+	Query: "butastur teesa" ; Times: 1
+	Query: "Euphonia rufiventris" ; Times: 1
+	Query: "phylloscopus davisoni" ; Times: 2
+	Query: "Geronticus eremita" ; Times: 2
+	Query: "genus:Syma institutioncode:KU" ; Times: 4
+	Query: "Catharus frantzii" ; Times: 1
+	Query: "balearica tissue" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (himalayana)" ; Times: 1
+	Query: "Myiarchus tuberculifer" ; Times: 2
+	Query: "genus:Chen preparations:skeleton" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 2
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 4
+	Query: "aythya ferina institutioncode:KU" ; Times: 1
+	Query: "aythya valisineria institutioncode:KU" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "Entomodestes coracinus" ; Times: 1
+	Query: "Sitta nagaensis" ; Times: 1
+	Query: "Phalacrocorax penicillatus institutioncode:KU" ; Times: 1
+	Query: "Pachycephala tenebrosa" ; Times: 3
+	Query: "107871" ; Times: 1
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "Saltatricula multicolor eggs" ; Times: 1
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 2
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 1
+	Query: "ploceus type:specimen preparations:skin institutioncode:KU" ; Times: 1
+	Query: "Hylophilus thoracicus" ; Times: 1
+	Query: "Tympanuchus cupido attwateri" ; Times: 1
+	Query: "Saltatricula multicolor" ; Times: 3
+	Query: "Campylorhynchus turdinus" ; Times: 1
+	Query: "Saltator coerulescens eggs" ; Times: 1
+	Query: "type:specimen family:Cracidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; year &gt;= 1900 year &lt;= 1999" ; Times: 2
+	Query: "Myrmotherula gularis" ; Times: 1
+	Query: "Hamilton year &gt;= 1830 year &lt;= 1900" ; Times: 1
+	Query: "genus:Polysticta preparations:skeleton" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 2
+	Query: "Anser albifrons" ; Times: 1
+	Query: "audubon" ; Times: 1
+	Query: "Schiffornis virescens" ; Times: 1
+	Query: "Gallicolumba" ; Times: 2
+	Query: "buteo regalis" ; Times: 1
+	Query: "4265" ; Times: 1
+	Query: "Tachybaptus ruficollis institutioncode:KU" ; Times: 1
+	Query: "Nystalus" ; Times: 2
+	Query: "Rhea americana eggs" ; Times: 1
+	Query: "sula leucogaster" ; Times: 3
+	Query: "(selasphorus) AND (rufus)" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 1
+	Query: "Chloroceryle amazona eggs" ; Times: 1
+	Query: "somateria mollissima" ; Times: 1
+	Query: "clamator coromandus" ; Times: 2
+	Query: "chrysococcyx klaas" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 12
+	Query: "heliornis tissue" ; Times: 1
+	Query: "type:specimen specificepithet:rufifrons genus:Rhipidura country:&#34;Solomon&#34;" ; Times: 1
+	Query: "Podilymbus podiceps eggs" ; Times: 4
+	Query: "KU 64227" ; Times: 1
+	Query: "anhinga anhinga institutioncode:KU" ; Times: 1
+	Query: "Picumnus cirratus" ; Times: 1
+	Query: "Synthliboramphus" ; Times: 1
+	Query: "Leucophaeus scoresbii eggs" ; Times: 1
+	Query: "Cercomacra laeta mappable:1" ; Times: 1
+	Query: "Dixiphia pipra" ; Times: 1
+	Query: "oriole" ; Times: 1
+	Query: "Hylophilus thoracicus mappable:1" ; Times: 1
+	Query: "Tachyphonus cristatus" ; Times: 1
+	Query: "myophonus caeruleus" ; Times: 1
+	Query: "Liocichla steerii" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "Caryothraustes canadensis" ; Times: 1
+	Query: "selasphorus" ; Times: 1
+	Query: "melophus lathami" ; Times: 2
+	Query: "distance(location,geopoint(24.046463999666567,-81.2109375))&lt;100000" ; Times: 1
+	Query: "specificepithet:albicollis genus:zonotrichia year &lt;= 1895" ; Times: 1
+	Query: "class:aves locality:corpus christi year &lt;= 1905" ; Times: 1
+	Query: "locality:Zacapa" ; Times: 1
+	Query: "emberiza buchanani" ; Times: 1
+	Query: "class:aves locality:corpus christi year &lt;= 1900" ; Times: 1
+	Query: "Ornithion inerme mappable:1" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (finschii)" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "KU 106317" ; Times: 2
+	Query: "Rhynchocyclus olivaceus mappable:1" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "type:specimen genus:Nandayus order:Psittaciformes year &gt;= 1900" ; Times: 1
+	Query: "Burhinus oedicnemus tissue" ; Times: 1
+	Query: "Coryphistera alaudina eggs" ; Times: 1
+	Query: "genus:Alopochen preparations:skeleton" ; Times: 1
+	Query: "merops philippinus" ; Times: 1
+	Query: "Gavia immer institutioncode:KU" ; Times: 1
+	Query: "Shufeldt AND (NOT UMMZ)" ; Times: 1
+	Query: "Turdus fumigatus mappable:1" ; Times: 1
+	Query: "apodidae" ; Times: 1
+	Query: "genus:Biziura preparations:skeleton" ; Times: 1
+	Query: "catreus wallichii" ; Times: 7
+	Query: "MA 102" ; Times: 1
+	Query: "Oxyura jamaicensis eggs" ; Times: 1
+	Query: "Chiroxiphia pareola" ; Times: 1
+	Query: "Piprites chloris" ; Times: 1
+	Query: "type:specimen genus:Ara order:Psittaciformes (militaris)" ; Times: 1
+	Query: "Molothrus bonariensis eggs" ; Times: 1
+	Query: "specificepithet:pileatus genus:Dryocopus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;pennsylvania&#34; year &lt;= 1892" ; Times: 1
+	Query: "KU 30742" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:melospiza county:&#34;los angeles&#34; preparations:skin year &gt;= 1900 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "KU 110763" ; Times: 1
+	Query: "specificepithet:carolinensis genus:poecile year &gt;= 1815 year &lt;= 1915" ; Times: 1
+	Query: "Piculus flavigula mappable:1" ; Times: 1
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "polyplectron bicalcaratum" ; Times: 1
+	Query: "fasciatus type:specimen institutioncode:KU" ; Times: 1
+	Query: "Ploceus galbula" ; Times: 6
+	Query: "Tachybaptus tissue" ; Times: 2
+	Query: "aves distance(location,geopoint(18.812717856407776,-71.180419921875))&lt;100000" ; Times: 1
+	Query: "Corydon Aves type:specimen preparations:Skin" ; Times: 1
+	Query: "uria aalge" ; Times: 1
+	Query: "genus:Amazonetta preparations:skeleton" ; Times: 1
+	Query: "Pipra rubrocapilla mappable:1" ; Times: 1
+	Query: "KU 9939" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "molothrus bonariensis eggs" ; Times: 1
+	Query: "genus:Syma" ; Times: 1
+	Query: "Caryothraustes canadensis mappable:1" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 1
+	Query: "catalognumber:114701 institutioncode:KU" ; Times: 1
+	Query: "Phalacrocorax punctatus institutioncode:KU" ; Times: 1
+	Query: "Schiffornis turdina" ; Times: 2
+	Query: "Myrmeciza loricata" ; Times: 1
+	Query: "pulsatrix melanota" ; Times: 1
+	Query: "Gavia stellata institutioncode:KU" ; Times: 1
+	Query: "Schiffornis turdina AND (veraepacis)" ; Times: 1
+	Query: "Limosa lapponica" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (sclateri)" ; Times: 2
+	Query: "KU 19169" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "genus:Leptopoecile" ; Times: 1
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+	Query: "28860" ; Times: 1
+	Query: "Philydor rufus" ; Times: 2
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "Glyphorhynchus spirurus mappable:1" ; Times: 1
+	Query: "Chiroxiphia pareola mappable:1" ; Times: 1
+	Query: "podilymbus institutioncode:KU" ; Times: 1
+	Query: "Phalacrocorax sulcirostris institutioncode:KU" ; Times: 1
+	Query: "ficedula hyperythra" ; Times: 2
+	Query: "Recurvirostra americana tissue" ; Times: 1
+	Query: "piranga rubra" ; Times: 1
+	Query: "Mayrornis" ; Times: 1
+	Query: "trogon caligatus ku" ; Times: 1
+	Query: "melophus lathami#" ; Times: 1
+	Query: "Bubo virginianus eggs" ; Times: 1
+	Query: "Thamnophilus palliatus mappable:1" ; Times: 1
+	Query: "type:specimen genus:Pyrrhura order:Psittaciformes country:&#34;panama&#34; year &gt;= 1900" ; Times: 1
+	Query: "luciae" ; Times: 1
+	Query: "sturnella" ; Times: 1
+	Query: "Piprites chloris mappable:1" ; Times: 1
+	Query: "ploceus institutioncode:KU" ; Times: 2
+	Query: "Pipra rubrocapilla" ; Times: 2
+	Query: "Hylomanes momotula" ; Times: 1
+	Query: "Ploceus hypoxanthus" ; Times: 2
+	Query: "Mammoth" ; Times: 1
+	Query: "heliomaster furcifer" ; Times: 4
+	Query: "genus:Cereopsis preparations:skeleton" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "3220" ; Times: 1
+	Query: "burhinus oedicnemus" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 4
+	Query: "acridotheres tristis" ; Times: 3
+	Query: "Raphus cucullatus" ; Times: 2
+	Query: "94563" ; Times: 1
+	Query: "acrocephalus orientalis-" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (ophthalmica)" ; Times: 1
+	Query: "catalognumber:24451 institutioncode:KU" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Picumnus exilis" ; Times: 1
+	Query: "Conuropsis Florida" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Veniliornis affinis mappable:1" ; Times: 1
+	Query: "genus:Orthotomus institutioncode:KU" ; Times: 2
+	Query: "type:specimen (Pedionomus)" ; Times: 1
+	Query: "catalognumber:1 institutioncode:KU" ; Times: 1
+	Query: "Syrrhaptes type:specimen" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 2
+	Query: "Thamnophilus palliatus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (branickii)" ; Times: 1
+	Query: "mosquito" ; Times: 1
+	Query: "rhodonessa" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "Tachybaptus dominicus institutioncode:KU" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Passerculus year &lt;= 1894 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "genus:megaceryle class:aves AND (not alcyon) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Xiphorhynchus fuscus" ; Times: 1
+	Query: "type:specimen genus:Prioniturus order:Psittaciformes (platenae)" ; Times: 1
+	Query: "tapera naevia eggs" ; Times: 1
+	Query: "mummy" ; Times: 3
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "rattlesnake" ; Times: 1
+	Query: "Picumnus spilogaster" ; Times: 3
+	Query: "genus:Sarkidiornis preparations:skeleton" ; Times: 1
+	Query: "zonotrichia capensis brazil" ; Times: 1
+	Query: "KU 11713" ; Times: 2
+	Query: "Zonotrichia querula" ; Times: 1
+	Query: "trout" ; Times: 1
+	Query: "M-14263" ; Times: 1
+	Query: "33465" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:melospiza preparations:skin year &gt;= 1900 year &lt;= 2015 distance(location,geopoint(33.90689555128866,-118.157958984375))&lt;138568" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "Formicarius colma mappable:1" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (terrisi)" ; Times: 1
+	Query: "Glyphorhynchus spirurus" ; Times: 1
+	Query: "aythya affinis institutioncode:KU" ; Times: 1
+	Query: "type:specimen family:Picidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Tachyphonus cristatus mappable:1" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 4
+	Query: "8347 fasciatus" ; Times: 1
+	Query: "Rhytipterna simplex mappable:1" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "dryocopus javensis" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 2
+	Query: "KU 99455" ; Times: 1
+	Query: "podiceps auritus institutioncode:KU" ; Times: 1
+	Query: "Picumnus minutissimus" ; Times: 3
+	Query: "type:specimen order:Psittaciformes country:&#34;BRAZIL&#34; (pyrrhura) institutioncode:KU" ; Times: 1
+	Query: "trogon ku" ; Times: 1
+	Query: "Euphonia" ; Times: 1
+	Query: "Myiarchus tuberculifer mappable:1" ; Times: 3
+	Query: "10993" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus)" ; Times: 1
+	Query: "type:specimen genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pulsatrix" ; Times: 12
+	Query: "&#34;Big Creek&#34;" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 5
+	Query: "Eudromia elegans eggs" ; Times: 2
+	Query: "Campylopterus curvipennis excellens" ; Times: 1
+	Query: "psalidoprocne" ; Times: 1
+	Query: "Veniliornis affinis" ; Times: 1
+	Query: "Schiffornis turdina mappable:1" ; Times: 2
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycerus NOT rufus NOT calliope)" ; Times: 2
+	Query: "specificepithet:capitalis genus:Grallaria institutioncode:KU" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 4
+	Query: "tragopan blythi" ; Times: 1
+	Query: "county:&#34;Bexar&#34; stateprovince:&#34;TEXAS&#34;" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (ferrugineus)" ; Times: 2
+	Query: "Vireo olivaceus type:specimen" ; Times: 2
+	Query: "Dixiphia pipra mappable:1" ; Times: 1
+	Query: "Pipraeidea melanonota type:specimen (weight)" ; Times: 2
+	Query: "anas superciliosa pelewensis" ; Times: 1
+	Query: "pachycephala tenebrosa" ; Times: 4
+	Query: "falco peregrinus" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Anodorhynchus)" ; Times: 1
+	Query: "Campylopterus excellens" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "chordeiles pusillus tissue" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "formicivora rufa" ; Times: 2
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "alca" ; Times: 1
+	Query: "Ornithion inerme" ; Times: 1
+	Query: "specificepithet:albilinea genus:tachycineta" ; Times: 1
+	Query: "sylvia communis" ; Times: 2
+	Query: "anhinga novaehollandiae institutioncode:KU" ; Times: 1
+	Query: "Salpinctes" ; Times: 1
+	Query: "selasphorus sasin (clemente)" ; Times: 1
+	Query: "Picumnus exilis mappable:1" ; Times: 1
+	Query: "capito quinticolor mappable:1" ; Times: 1
+	Query: "genus:Anseranas preparations:skeleton" ; Times: 2
+	Query: "petrochelidon fulva" ; Times: 3
+	Query: "University of New Mexico" ; Times: 2
+	Query: "zoothera dauma" ; Times: 2
+	Query: "ku 33585" ; Times: 1
+	Query: "genus:megaceryle class:aves year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "phylloscopus plumbeitarsus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 751 download events in this period)
+Total number of records downloaded: 15802
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: United States ; Times: 49
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 13
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-30 ; Times: 8
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 4
+	Date: 2015-11-12 ; Times: 19
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 5
+	Date: 2015-11-04 ; Times: 5
+	Date: 2015-11-23 ; Times: 4
+	Date: 2015-11-09 ; Times: 7
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-29 ; Times: 3
+	Date: 2015-11-02 ; Times: 5
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 4
+	Date: 2015-11-27 ; Times: 11
+	Date: 2015-11-20 ; Times: 6
+	Date: 2015-11-21 ; Times: 9
+	Date: 2015-11-22 ; Times: 2
+	Date: 2015-11-05 ; Times: 5
+	Date: 2015-11-18 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysococcyx cupreus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 3
+	Query: "genus:Alopochen preparations:skeleton" ; Times: 1
+	Query: "Turdus fumigatus mappable:1" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "genus:Plectropterus preparations:skeleton" ; Times: 1
+	Query: "Thraupis sayaca" ; Times: 1
+	Query: "genus:Biziura preparations:skeleton" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Catharus frantzii" ; Times: 1
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "Veniliornis affinis mappable:1" ; Times: 1
+	Query: "Amazilia lactea mappable:1" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 2
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "Xiphorhynchus fuscus" ; Times: 1
+	Query: "halcyon senegalensis" ; Times: 1
+	Query: "Alauda month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Pachyramphus marginatus mappable:1" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "pomatorhinus ruficollis" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Piprites chloris mappable:1" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "halcyon leucocephala" ; Times: 1
+	Query: "Synallaxis ruficapilla" ; Times: 1
+	Query: "Rhipidura rufifrons" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "Accipiter superciliosus mappable:1" ; Times: 1
+	Query: "Pipra rubrocapilla mappable:1" ; Times: 1
+	Query: "Sclerurus caudacutus mappable:1" ; Times: 1
+	Query: "Xiphorhynchus guttatus mappable:1" ; Times: 1
+	Query: "Formicarius colma mappable:1" ; Times: 1
+	Query: "Pteroglossus aracari mappable:1" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "Myrmotherula gularis" ; Times: 1
+	Query: "Laniocera hypopyrra mappable:1" ; Times: 1
+	Query: "clamator glandarius" ; Times: 1
+	Query: "Melophus type:specimen class:Aves" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "capito auratus mappable:1" ; Times: 2
+	Query: "Tachyphonus cristatus mappable:1" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Caryothraustes canadensis mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "phytotoma rara" ; Times: 1
+	Query: "Myrmeciza loricata" ; Times: 1
+	Query: "family:Anhimidae preparations:skeleton" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "Celeus torquatus mappable:1" ; Times: 1
+	Query: "genus:Tachyeres preparations:skeleton" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "Myiarchus tuberculifer mappable:1" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "Hemitriccus diops" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus mappable:1" ; Times: 1
+	Query: "genus:Somateria preparations:skeleton" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "chrysococcyx klaas" ; Times: 1
+	Query: "Schiffornis turdina mappable:1" ; Times: 1
+	Query: "uria aalge eggs" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 12
+	Query: "sturnella loyca institutioncode:KU" ; Times: 1
+	Query: "(AM Ornithology)" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "ispidina picta" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Ramphocaenus melanurus mappable:1" ; Times: 1
+	Query: "Dixiphia pipra mappable:1" ; Times: 1
+	Query: "Rhynchocyclus olivaceus mappable:1" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Clytorhynchus" ; Times: 1
+	Query: "Hylophilus thoracicus mappable:1" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Tolmomyias poliocephalus mappable:1" ; Times: 1
+	Query: "Attila spadiceus mappable:1" ; Times: 1
+	Query: "Thamnophilus palliatus mappable:1" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "genus:Chenonetta preparations:skeleton" ; Times: 1
+	Query: "Habia rubica mappable:1" ; Times: 1
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 1
+	Query: "Myiothlypis leucoblephara" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Lioparus chrysotis" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "genus:Cereopsis preparations:skeleton" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "Mionectes oleagineus mappable:1" ; Times: 1
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "capito quinticolor mappable:1" ; Times: 1
+	Query: "Trogon collaris mappable:1" ; Times: 1
+	Query: "genus:Anseranas preparations:skeleton" ; Times: 1
+	Query: "genus:Tadorna preparations:skeleton" ; Times: 1
+	Query: "grallaria ridgelyi" ; Times: 1
+	Query: "acridotheres tristis" ; Times: 1
+
+
+End of report.
