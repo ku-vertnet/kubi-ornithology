@@ -1,0 +1,205 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1692
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 88
+	Country: Unknown ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 7
+	Date: 2016-03-11 ; Times: 12
+	Date: 2016-03-03 ; Times: 16
+	Date: 2016-03-01 ; Times: 10
+	Date: 2016-03-08 ; Times: 14
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-14 ; Times: 13
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 21
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 11
+	Date: 2016-03-13 ; Times: 9
+	Date: 2016-03-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:heinrich" ; Times: 1
+	Query: "class:aves recordedby:bodley" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "genus:Grus county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "perdix minnesota" ; Times: 1
+	Query: "Columba" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "calothorax lucifer mexico" ; Times: 1
+	Query: "crypturellus tataupa" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Bodley" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "diglossa baritula" ; Times: 5
+	Query: "genus:Chen mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:california year&gt;1976" ; Times: 3
+	Query: "type:specimen institutioncode:KU" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 2
+	Query: "recordedby:bodley" ; Times: 2
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bodley" ; Times: 1
+	Query: "Effingham" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "recordedby:Bodley institutioncode:KU" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "stateprovince:&#34;Sinaloa&#34; recordedby:Bodley" ; Times: 1
+	Query: "phalacrocorax atriceps (yehuin)" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:bodley" ; Times: 1
+	Query: "Gymnomyza samoensis (WEIGHT)" ; Times: 1
+	Query: "recordedby:Bodley" ; Times: 5
+	Query: "stateprovince:&#34;oregon&#34; recordedby:Bodley" ; Times: 2
+	Query: "Aramus institutioncode:KU" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "(yehuin)" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer institutioncode:KU" ; Times: 1
+	Query: "Picidae (skull)" ; Times: 2
+	Query: "aves distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;195452" ; Times: 1
+	Query: "type:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "LSU Cyclarhis gujanensis" ; Times: 1
+	Query: "devil" ; Times: 4
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 3
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "class:Aves recordedby:Bodley institutioncode:KU" ; Times: 1
+	Query: "falco mexicanus" ; Times: 2
+	Query: "class:Aves recordedby:Bodley" ; Times: 1
+	Query: "Costa Rican birds" ; Times: 3
+	Query: "catalognumber:104086 institutioncode:KU" ; Times: 2
+	Query: "recordedby:Bodley year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "&#34;Amazilia violiceps&#34; AND weight" ; Times: 1
+	Query: "Cygnus buccinator Alaska" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "Santa Cruz Island California" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen institutioncode:KU" ; Times: 1
+	Query: "type:specimen specificepithet:oleagineus genus:Mionectes class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "KU 87117" ; Times: 1
+	Query: "Tv" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:americana genus:Grus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "bombycilla cedrorum" ; Times: 1
+	Query: "KU 44567" ; Times: 1
+	Query: "diglossa sittoides" ; Times: 3
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 3
+	Query: "2229" ; Times: 1
+	Query: "Celeus flavescens brazil" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "KU 108426" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960" ; Times: 1
+	Query: "gbifdatasetid:e635240a-3cb1-4d26-ab87-57d8c7afdfdb" ; Times: 1
+	Query: "osborne" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "catalognumber:69031 institutioncode:KU" ; Times: 2
+	Query: "Doricha eliza" ; Times: 1
+	Query: "&#34;tissue&#34; institutioncode:KU genus:philydor specificepithet: rufus" ; Times: 1
+	Query: "xiphorhynchus fuscus mappable:1" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "Camptorhynchus" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 6
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "prinia hodgsonii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 230 download events in this period)
+Total number of records downloaded: 764722
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 9
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-01 ; Times: 6
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "setophaga pitiayumi" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Cygnus buccinator Alaska" ; Times: 1
+	Query: "&#34;Amazilia violiceps&#34; AND weight" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 1
+
+
+End of report.
