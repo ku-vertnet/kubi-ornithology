@@ -1,0 +1,266 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 12563
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 38
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 5
+	Country: United States ; Times: 141
+	Country: Malaysia ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: China ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 11
+	Date: 2016-05-18 ; Times: 5
+	Date: 2016-05-17 ; Times: 8
+	Date: 2016-05-16 ; Times: 8
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 7
+	Date: 2016-05-12 ; Times: 6
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 9
+	Date: 2016-05-31 ; Times: 40
+	Date: 2016-05-30 ; Times: 11
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 3
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-02 ; Times: 5
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-06 ; Times: 6
+	Date: 2016-05-07 ; Times: 6
+	Date: 2016-05-26 ; Times: 16
+	Date: 2016-05-27 ; Times: 21
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 6
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 11
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 17
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "university of michigan" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 2
+	Query: "birds of bc" ; Times: 1
+	Query: "myzomela rosenbergii institutioncode:KU" ; Times: 1
+	Query: "Uroglaux dimorpha" ; Times: 1
+	Query: "specificepithet:cyanocephalus stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "genus:Colaptes country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "myzomela pammelaena" ; Times: 6
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "chlorostilbon forficatus" ; Times: 1
+	Query: "Myzomela eques" ; Times: 4
+	Query: "crateroscelis robusta institutioncode:KU" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Myzomela sclateri" ; Times: 5
+	Query: "Aphelocoma insularis" ; Times: 1
+	Query: "Terenura spodioptila" ; Times: 2
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "specificepithet:nigrescens genus:Setophaga stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Amazilia beryllina devillei" ; Times: 1
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "catalognumber:24559 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:nuttallii genus:picoides institutioncode:KU" ; Times: 1
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "Illadopsis" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 3
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:dahli country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "institutioncode: KU myiagra" ; Times: 2
+	Query: "110018}" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "lsu" ; Times: 1
+	Query: "Chlorostilbon forficatus" ; Times: 1
+	Query: "Myzomela jugularis" ; Times: 2
+	Query: "KU 6745" ; Times: 2
+	Query: "grus testis" ; Times: 5
+	Query: "rattlesnake mappable:1" ; Times: 1
+	Query: "grus" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "specificepithet:cyanocephalus genus:Gymnorhinus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "ku 99225" ; Times: 1
+	Query: "otus fuliginosus" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Malurus alboscapulatus institutioncode:KU" ; Times: 1
+	Query: "louisiana state university" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "calidris pugnax" ; Times: 1
+	Query: "elephant birds" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "institutioncode: KU myiagra azureocapilla" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Chamaea" ; Times: 2
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "melanerpes santacruzi" ; Times: 1
+	Query: "mt elbert" ; Times: 1
+	Query: "Myzomela adolphinae" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 5
+	Query: "university of minnesota" ; Times: 1
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "Myzomela institutioncode:KU" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 3
+	Query: "conuropsis carolinensis" ; Times: 3
+	Query: "ku atp" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "Kenopia" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "class:aves locality:bintulu" ; Times: 1
+	Query: "crateroscelis institutioncode:KU" ; Times: 2
+	Query: "myzomela institutioncode:KU" ; Times: 7
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "KU 75948" ; Times: 2
+	Query: "catalognumber:92679 institutioncode:KU" ; Times: 2
+	Query: "Myzomela cineracea" ; Times: 4
+	Query: "institutioncode:KU Myiagra" ; Times: 2
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "ivory" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "sturnella magna magna" ; Times: 1
+	Query: "Oceanodroma AND Cruz Island" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 2
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "larus canus" ; Times: 1
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "KU 113218" ; Times: 3
+	Query: "KU 94650" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Vireo huttoni" ; Times: 2
+	Query: "Selasphorus AND San Clemente Island" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "type:specimen specificepithet:azureocapilla genus:Myiagra institutioncode:KU" ; Times: 1
+	Query: "salpinctes" ; Times: 1
+	Query: "Lioparus" ; Times: 1
+	Query: "meadowlark" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "caprimulgus indicus" ; Times: 3
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "anser" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "remiz tissue" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 1
+	Query: "Passer domesticus" ; Times: 12
+	Query: "albicaudatus" ; Times: 1
+	Query: "Texas Brewster type:specimen genus:vireo class:Aves" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Melanerpes aurifrons" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "catalognumber:19927 institutioncode:KU" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "ara militaris" ; Times: 2
+	Query: "antrostomus cubanensis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 327 download events in this period)
+Total number of records downloaded: 24414
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 4
+	Country: China ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 4
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "crateroscelis institutioncode:KU" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Malurus alboscapulatus institutioncode:KU" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+
+
+End of report.
