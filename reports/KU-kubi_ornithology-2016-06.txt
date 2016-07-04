@@ -1,0 +1,560 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 633
+Number of records retrieved in searches: 5708
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 38
+	Country: Canada ; Times: 18
+	Country: Unknown ; Times: 7
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 6
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Chile ; Times: 5
+	Country: Dominican Republic ; Times: 1
+	Country: Hong Kong ; Times: 9
+	Country: Spain ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 277
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 9
+	Country: Honduras ; Times: 23
+	Country: Portugal ; Times: 72
+	Country: Mexico ; Times: 130
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 3
+	Country: South Korea ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 7
+	Date: 2016-06-24 ; Times: 17
+	Date: 2016-06-23 ; Times: 14
+	Date: 2016-06-08 ; Times: 30
+	Date: 2016-06-21 ; Times: 14
+	Date: 2016-06-20 ; Times: 41
+	Date: 2016-06-05 ; Times: 32
+	Date: 2016-06-04 ; Times: 28
+	Date: 2016-06-07 ; Times: 19
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-01 ; Times: 15
+	Date: 2016-06-03 ; Times: 31
+	Date: 2016-06-02 ; Times: 61
+	Date: 2016-06-09 ; Times: 20
+	Date: 2016-06-22 ; Times: 13
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 7
+	Date: 2016-06-16 ; Times: 47
+	Date: 2016-06-17 ; Times: 17
+	Date: 2016-06-14 ; Times: 68
+	Date: 2016-06-15 ; Times: 41
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 47
+	Date: 2016-06-10 ; Times: 11
+	Date: 2016-06-11 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavia pacifica" ; Times: 4
+	Query: "(&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;)" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Peucaea cassinii Chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:Sporophila sex:male" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "annamensis" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "county:&#34;murray&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "podiceps occipitalis" ; Times: 1
+	Query: "MEGASCOPS KENNICOTTII" ; Times: 4
+	Query: "98763" ; Times: 1
+	Query: "contopus virens type:specimen institutioncode:KU" ; Times: 1
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Edmonton" ; Times: 1
+	Query: "120059" ; Times: 1
+	Query: "(&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "34876" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "querula purpurata" ; Times: 15
+	Query: "Pyrocephalus rubinus" ; Times: 2
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "11139" ; Times: 4
+	Query: "KU 65373" ; Times: 3
+	Query: "catalognumber:45744 institutioncode:KU" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 3
+	Query: "myzomela eques" ; Times: 3
+	Query: "8516" ; Times: 1
+	Query: "montifringilla nivalis" ; Times: 1
+	Query: "KU 97516" ; Times: 1
+	Query: "KU 97517" ; Times: 1
+	Query: "KU 97514" ; Times: 3
+	Query: "KU 97515" ; Times: 1
+	Query: "KU 97518" ; Times: 1
+	Query: "KU 97519" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "anhinga" ; Times: 1
+	Query: "Melanitta AND Santa Cruz Island" ; Times: 2
+	Query: "Melanitta AND Santa Cruz" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "4107" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Branta canadensis" ; Times: 2
+	Query: "recordedby:Labedz" ; Times: 2
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "oreomystis" ; Times: 1
+	Query: "clytomyias insignis" ; Times: 1
+	Query: "numenius" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "61092" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "haliaeetus vocifer skeleton" ; Times: 1
+	Query: "Quiscalus quiscula versicolor (skin)" ; Times: 2
+	Query: "Pericrocotus roseus" ; Times: 1
+	Query: "asio otus" ; Times: 2
+	Query: "haliaeetus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:KU" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "conirostrum speciosum institutioncode:ku" ; Times: 2
+	Query: "type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "hedydipna type:specimen" ; Times: 1
+	Query: "cyanocorax yucatanicus" ; Times: 2
+	Query: "ninox jacquinoti" ; Times: 1
+	Query: "Piranga ludoviciana AND Island" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "7173" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "micromonacha lanceolata" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "conirostrum bicolor institutioncode:ku" ; Times: 1
+	Query: "type:specimen specificepithet:plumbeiceps genus:poecilotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "Aratinga acuticaudata 1" ; Times: 4
+	Query: "103398" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "Penelope purpurascens purpurascens" ; Times: 1
+	Query: "KU 62102" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "francolinus bicalcaratus" ; Times: 1
+	Query: "2083" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "genus: aegolius" ; Times: 2
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 5
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "francolinus leucoscepus" ; Times: 1
+	Query: "Melanitta AND ISland" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 5
+	Query: "london" ; Times: 1
+	Query: "Circus approximans AND skeleton" ; Times: 1
+	Query: "uroglaux" ; Times: 1
+	Query: "buteo rufinus" ; Times: 1
+	Query: "1831" ; Times: 1
+	Query: "catalognumber:29342 institutioncode:KU" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1907" ; Times: 1
+	Query: "catalognumber:29344 institutioncode:KU" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "laterallus" ; Times: 2
+	Query: "Amazona aestiva 1" ; Times: 3
+	Query: "type:specimen institutioncode:KU" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Clemente Island" ; Times: 2
+	Query: "Snow lake" ; Times: 1
+	Query: "trogon curucui brazil" ; Times: 1
+	Query: "type:specimen specificepithet:baeri sex:male (Poospiza OR Compsocoma OR Compsospiza)" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "ortalis vetula pallidiventris" ; Times: 1
+	Query: "black-tailed jackrabbit" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "gavia pacifica" ; Times: 14
+	Query: "98774" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "Fratercula cirrhata British Columbia" ; Times: 2
+	Query: "56134" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "micromonacha lanceolata institutioncode:KU" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "county:&#34;mono&#34;" ; Times: 2
+	Query: "Pluvialis AND Island" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "59028" ; Times: 1
+	Query: "catalognumber:33838 institutioncode:KU" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "catalognumber:9960 institutioncode:KU" ; Times: 1
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "Lepidoptera" ; Times: 2
+	Query: "59041" ; Times: 2
+	Query: "98762" ; Times: 2
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "harpagus bidentatus" ; Times: 1
+	Query: "Passerina caerulea AND Island" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 3
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "Oceanodroma" ; Times: 2
+	Query: "Estrilda troglodytes 1" ; Times: 3
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "institutioncode: KU 13537" ; Times: 1
+	Query: "Egretta AND Island" ; Times: 1
+	Query: "locality:Bella Union stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "institutioncode: KU myiagra azureocapilla" ; Times: 1
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "spixii" ; Times: 1
+	Query: "myzomela cardinalis" ; Times: 1
+	Query: "Cecropia" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Mimus triurus" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "Orthotomus sutorius Vietnam" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Rhodonessa" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "neomorphus" ; Times: 1
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "polystictus KU" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "Foudia AND skeleton" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "francolinus squamatus" ; Times: 1
+	Query: "goura" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "sylvietta virens institutioncode:KU" ; Times: 1
+	Query: "cuetzalan" ; Times: 5
+	Query: "schomburgki" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Gymnorhinus cyanocephalus" ; Times: 1
+	Query: "Dixiphia" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "strix occidentalis lucida" ; Times: 1
+	Query: "grus americana" ; Times: 1
+	Query: "birds Auriparus flaviceps Baja California" ; Times: 1
+	Query: "empidonax traillii" ; Times: 2
+	Query: "eleothreptus" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "specificepithet:penelope" ; Times: 1
+	Query: "type:specimen specificepithet:castaneoventris genus:Dubusia sex:male" ; Times: 1
+	Query: "Gavia immer AND Island" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Riparia riparia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(32.697362236182066,-105.018310546875))&lt;126133" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "Carpodacus davidianus" ; Times: 2
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "Melanitta AND Santa Barbara Island" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "cyanoderma" ; Times: 3
+	Query: "11899" ; Times: 3
+	Query: "Eos bornea AND skeleton" ; Times: 1
+	Query: "Nyctibius jamaicensis" ; Times: 3
+	Query: "118669" ; Times: 1
+	Query: "Aphelocoma" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 4
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "Melanitta AND ISland AND California" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "francolinus erckelii" ; Times: 1
+	Query: "county:&#34;Doniphan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "KU 103221" ; Times: 1
+	Query: "KU 103220" ; Times: 3
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "Oxyura AND Santa Cruz" ; Times: 1
+	Query: "genus:Miliaria" ; Times: 2
+	Query: "devil" ; Times: 4
+	Query: "county:&#34;Terrell&#34;" ; Times: 1
+	Query: "catalognumber:49377 institutioncode:KU" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "Picoides scalaris" ; Times: 3
+	Query: "specificepithet:corax genus:corvus year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "uroglaux dimorpha" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "4689" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "aimophila ruficeps obscura" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "specificepithet:lewis genus:Melanerpes stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.809121700077355,-121.783447265625))&lt;54885" ; Times: 1
+	Query: "type:specimen specificepithet:fringilloides genus:Dolospingus sex:male" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "aegolius funereus" ; Times: 3
+	Query: "50388" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "108985" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "bird wings" ; Times: 2
+	Query: "aerodramus pelewensis" ; Times: 5
+	Query: "gbifdatasetid:e635240a-3cb1-4d26-ab87-57d8c7afdfdb" ; Times: 2
+	Query: "Busiek State Forest" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "Agapornis personatus 1" ; Times: 3
+	Query: "contopus virens type:specimen county:&#34;Morton&#34; institutioncode:KU" ; Times: 1
+	Query: "Ploceus melanocephalus 1" ; Times: 2
+	Query: "anas cyanoptera" ; Times: 3
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews" ; Times: 1
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "Paloma" ; Times: 1
+	Query: "parabuteo unicinctus" ; Times: 2
+	Query: "genus:Chondestes stateprovince:&#34;Kansas&#34; month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "conirostrum institutioncode:ku" ; Times: 1
+	Query: "Rhinomyias brunneata" ; Times: 7
+	Query: "Meleagris" ; Times: 2
+	Query: "KU lepidocolaptes" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "class:Aves county:&#34;Doniphan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "type:specimen specificepithet:erythrophrys genus:Poospiza sex:male" ; Times: 1
+	Query: "Amandava subflava 1" ; Times: 3
+	Query: "41594" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "111499" ; Times: 3
+	Query: "Oceanodroma homochroa Santa Cruz 1970" ; Times: 2
+	Query: "KU 3804" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "KU 97526" ; Times: 1
+	Query: "KU 97525" ; Times: 1
+	Query: "KU 97524" ; Times: 1
+	Query: "KU 97523" ; Times: 1
+	Query: "KU 97522" ; Times: 1
+	Query: "KU 97521" ; Times: 2
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "rattlesnake" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "Ifrita" ; Times: 1
+	Query: "SCW" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "88727" ; Times: 1
+	Query: "University of Alberta and edmonton" ; Times: 2
+	Query: "3262" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "Numenius minutus" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "ortalis vetula type:specimen" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Aratinga mitrata 1" ; Times: 3
+	Query: "Black range new mexico" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "Allenia fusca" ; Times: 1
+	Query: "Sitta canadensis" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "type:specimen specificepithet:poliocephalum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "53440" ; Times: 1
+	Query: "KU 25087" ; Times: 2
+	Query: "vultur gryphus" ; Times: 6
+	Query: "98759" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "Icterus auratus" ; Times: 2
+	Query: "type:specimen (contopus sordidulus) institutioncode:KU" ; Times: 1
+	Query: "cyanistes" ; Times: 2
+	Query: "64135" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "KU 97520" ; Times: 1
+	Query: "strix aluco" ; Times: 3
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Breninger" ; Times: 1
+	Query: "fregata ariel" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "sericocaudatus" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "basileuterus culicivorus" ; Times: 1
+	Query: "buphagus" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "egg 1897 kansas" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 2
+	Query: "type:specimen stateprovince:&#34;Kansas&#34; (contopus sordidulus) institutioncode:KU" ; Times: 1
+	Query: "ara macao" ; Times: 2
+	Query: "Aratinga erythrogenys 1" ; Times: 3
+	Query: "77593" ; Times: 1
+	Query: "crax rubra" ; Times: 2
+	Query: "75167" ; Times: 1
+	Query: "amphispiza bilineata" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "Breninger AND 1896" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1052 download events in this period)
+Total number of records downloaded: 24286
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "Carpodacus davidianus" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "conirostrum institutioncode:ku" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "phalaenoptilus nuttallii stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
