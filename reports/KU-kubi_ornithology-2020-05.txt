@@ -1,0 +1,778 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 981
+Number of records retrieved in searches: 9658
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 196
+	Country: Brazil ; Times: 22
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 70
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 6
+	Country: Peru ; Times: 5
+	Country: Argentina ; Times: 37
+	Country: Venezuela ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 12
+	Country: Czechia ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 2
+	Country: Hong Kong ; Times: 53
+	Country: Philippines ; Times: 16
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 443
+	Country: Sweden ; Times: 5
+	Country: Mexico ; Times: 39
+	Country: United Arab Emirates ; Times: 1
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 21
+	Country: Colombia ; Times: 3
+	Country: Paraguay ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 40
+	Date: 2020-05-24 ; Times: 16
+	Date: 2020-05-27 ; Times: 44
+	Date: 2020-05-26 ; Times: 40
+	Date: 2020-05-21 ; Times: 5
+	Date: 2020-05-20 ; Times: 8
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 20
+	Date: 2020-05-29 ; Times: 16
+	Date: 2020-05-28 ; Times: 46
+	Date: 2020-05-18 ; Times: 17
+	Date: 2020-05-19 ; Times: 20
+	Date: 2020-05-10 ; Times: 48
+	Date: 2020-05-11 ; Times: 22
+	Date: 2020-05-12 ; Times: 36
+	Date: 2020-05-13 ; Times: 19
+	Date: 2020-05-14 ; Times: 8
+	Date: 2020-05-15 ; Times: 26
+	Date: 2020-05-16 ; Times: 15
+	Date: 2020-05-17 ; Times: 47
+	Date: 2020-05-30 ; Times: 13
+	Date: 2020-05-31 ; Times: 11
+	Date: 2020-05-09 ; Times: 19
+	Date: 2020-05-08 ; Times: 22
+	Date: 2020-05-07 ; Times: 117
+	Date: 2020-05-06 ; Times: 57
+	Date: 2020-05-05 ; Times: 42
+	Date: 2020-05-04 ; Times: 28
+	Date: 2020-05-03 ; Times: 14
+	Date: 2020-05-02 ; Times: 20
+	Date: 2020-05-01 ; Times: 140
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 15583" ; Times: 2
+	Query: "36580" ; Times: 1
+	Query: "genus:Petroica institutioncode:KU" ; Times: 5
+	Query: "134721" ; Times: 1
+	Query: "Ceyx azureus 96095" ; Times: 1
+	Query: "specificepithet:melanophaius genus:laterallus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "KUBI 87789" ; Times: 3
+	Query: "Cathartes aura ws OR wingspan OR wing+span" ; Times: 10
+	Query: "specificepithet:mcgregori genus:coracina country:&#34;philippines&#34;" ; Times: 16
+	Query: "family:Podicipedidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "ilicura militaris" ; Times: 1
+	Query: "class:Aves institutioncode:KU" ; Times: 1
+	Query: "geotrygon saphirina" ; Times: 3
+	Query: "specificepithet:aedon genus:Troglodytes country:&#34;El Salvador&#34; year &gt;= 1970 year &lt;= 2020 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 9
+	Query: "Tyto ws OR wingspan OR wing+span" ; Times: 1
+	Query: "catalognumber:97386 year &gt;= 2002" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "genus:Mimus family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Petrochelidon family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strix ws OR wingspan OR wing+span" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1970 year &lt;= 2020 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "specificepithet:nigrocapitata institutioncode:KU hastissue:1" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sterna class:Aves country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:buccanodon class:aves year &gt;= 1985" ; Times: 1
+	Query: "genus:Toxostoma stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "51940" ; Times: 1
+	Query: "alectrurus" ; Times: 2
+	Query: "akers" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "KU 21590" ; Times: 1
+	Query: "Charadrius nivosus" ; Times: 3
+	Query: "specificepithet:saracura family:rallidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "genus:helmitheros class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "KUNHM 7567" ; Times: 1
+	Query: "276965" ; Times: 1
+	Query: "class:Aves catalognumber:123999" ; Times: 2
+	Query: "family:Strigidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:female" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris OR sacer &#34;Kadavu&#34;" ; Times: 1
+	Query: "Pelecanus erythrorhynchos ws OR wingspan OR wing+span" ; Times: 9
+	Query: "genus:batrachostomus year &gt;= 1985" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:adult sex:male" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 1
+	Query: "Accipiter cooperii ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Zenaida ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Charadrius ws OR wingspan OR wing+span" ; Times: 1
+	Query: "family:Parulidae class:aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "Texas Setophaga" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 3
+	Query: "Texas Arenaria interpres" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "KU 20893" ; Times: 2
+	Query: "rhipidura rufifrons institutioncode:KU" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris OR sacer Vanua Levu" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; sex:male" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:female" ; Times: 1
+	Query: "9738" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "family:Laniidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:buccanodon (15577)" ; Times: 2
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34; institutioncode:KU" ; Times: 2
+	Query: "genus:buccanodon (8663)" ; Times: 2
+	Query: "24437 family:Apodidae institutioncode:KU" ; Times: 1
+	Query: "family:Passeridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "Sialia sialis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "poecile rufescens ovary" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "specificepithet:cinerascens genus:Myiarchus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "pygiptila stellaris" ; Times: 1
+	Query: "Pelecanus ws OR wingspan OR wing+span" ; Times: 2
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:male" ; Times: 1
+	Query: "ku grallaria andicolus" ; Times: 1
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "96194" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dendrocincla institutioncode:KU 1241" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "vntype:specimen institutioncode:KU hastissue:1" ; Times: 1
+	Query: "genus:Sturnus family:Sturnidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "Tissue 12803 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:striaticeps genus:Macronus institutioncode:KU hastissue:1" ; Times: 1
+	Query: "genus:Progne family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:buccanodon (15677)" ; Times: 2
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Athene ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "family:phasianidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "genus:buccanodon (34709)" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana sex:male" ; Times: 1
+	Query: "family:Phalacrocoracidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:female" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "genus:Troglodytes family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "family:Parulidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "KU 22064" ; Times: 2
+	Query: "genus:Colluricincla institutioncode:KU" ; Times: 4
+	Query: "64733" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "genus:buccanodon (8695)" ; Times: 2
+	Query: "habia affinis" ; Times: 2
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "49138" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:female" ; Times: 1
+	Query: "Spelaeornis troglodytoides" ; Times: 1
+	Query: "genus:Vultur" ; Times: 5
+	Query: "27615" ; Times: 1
+	Query: "Progne subis ws OR wingspan OR wing+span" ; Times: 10
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:male" ; Times: 1
+	Query: "family:Alcedinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:male" ; Times: 1
+	Query: "specificepithet:steerii genus:Eurylaimus hastissue:1" ; Times: 1
+	Query: "genus:Sayornis family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "family:Emberizidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas fulvigula" ; Times: 3
+	Query: "specificepithet:macropus genus:scytalopus" ; Times: 2
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "KUBI 1607" ; Times: 2
+	Query: "KUBI 1609" ; Times: 5
+	Query: "KUBI 1608" ; Times: 4
+	Query: "specificepithet:acuta genus:Anas sex:female" ; Times: 1
+	Query: "genus:Hypocryptadius institutioncode:KU" ; Times: 1
+	Query: "specificepithet:saracura genus:Aramides country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "family:Accipitridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:male" ; Times: 1
+	Query: "Todiramphus winchelli" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "myrmoborus myotherinus" ; Times: 1
+	Query: "Microspingus erythrophrys" ; Times: 2
+	Query: "cyornis herioti" ; Times: 3
+	Query: "specificepithet:acuta genus:Anas sex:male" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "Sialia currucoides ws OR wingspan OR wing+span" ; Times: 9
+	Query: "genus:Salpinctes family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis year &gt;= 1970 year &lt;= 2020 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "family:Cardinalidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:enca genus:corvus country:&#34;philippines&#34;" ; Times: 2
+	Query: "egg texas" ; Times: 1
+	Query: "genus:Molothrus family:Icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:female" ; Times: 1
+	Query: "specificepithet:striaticeps genus:Macronus institutioncode:KU" ; Times: 2
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:female" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "16804" ; Times: 1
+	Query: "Lamprotornis superbus hastissue:1" ; Times: 1
+	Query: "specificepithet:nigrocapitata genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "fieldnumber:7139 institutioncode:KU" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "genus:Micrathene stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "79125" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:male" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Haliaeetus leucocephalus ws OR wingspan OR wing+span" ; Times: 7
+	Query: "saphirina" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "specificepithet:dennistouni (20186) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "KUBI 1437" ; Times: 2
+	Query: "family:Picidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "genus:Dumetella family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "Falco ws OR wingspan OR wing+span" ; Times: 2
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Aramberri" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "genus:Heliornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:male" ; Times: 1
+	Query: "12667 specificepithet:plumosus genus:Pycnonotus institutioncode:KU" ; Times: 1
+	Query: "genus:buccanodon (34710)" ; Times: 2
+	Query: "Apus pacificus" ; Times: 2
+	Query: "19117 genus:Hypocryptadius institutioncode:KU" ; Times: 1
+	Query: "Todiramphus sanctus sanctus 7567" ; Times: 1
+	Query: "myzomela karimuiensis" ; Times: 2
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 2
+	Query: "106979" ; Times: 1
+	Query: "specificepithet:mindanensis genus:Ptilocichla (18187) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "20262 institutioncode:KU" ; Times: 3
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "genus:buccanodon (19785)" ; Times: 2
+	Query: "genus:Caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "Anas rubripes" ; Times: 4
+	Query: "specificepithet:woodi genus:Leonardina institutioncode:KU" ; Times: 1
+	Query: "aphelocoma unicolor veracruz" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "6363" ; Times: 2
+	Query: "&#34;Anas rubripes&#34; sex:female" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:male" ; Times: 1
+	Query: "family:Paridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 6
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:male" ; Times: 1
+	Query: "family:Vireonidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Brazos County" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 2
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "specificepithet:viduata genus:dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "33042" ; Times: 2
+	Query: "specificepithet:macularius genus:Actitis sex:female" ; Times: 1
+	Query: "KUBI 86287" ; Times: 2
+	Query: "CORBIDI" ; Times: 1
+	Query: "28482 family:Apodidae institutioncode:KU" ; Times: 1
+	Query: "specificepithet:herioti genus:cyornis country:&#34;philippines&#34;" ; Times: 4
+	Query: "specificepithet:crecca genus:Anas sex:male" ; Times: 1
+	Query: "Buteo regalis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "aves spleen" ; Times: 2
+	Query: "Halcyon OR Todiramphus locality:Tutuila" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "charadrius modestus" ; Times: 1
+	Query: "KU 15177 aves" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "KU 13784 aves" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "family:Recurvirostridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "Buteo jamaicensis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "65127" ; Times: 1
+	Query: "egg Stevens" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "genus:Sturnella family:icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Tytonidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Emberiza rutila" ; Times: 1
+	Query: "genus:Tachycineta family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas platyrhynchos ws OR wingspan OR wing+span" ; Times: 8
+	Query: "catalognumber:7139 institutioncode:KU" ; Times: 1
+	Query: "family:icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 7
+	Query: "121605" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 2
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 7
+	Query: "institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Alaudidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aegypius monachus" ; Times: 1
+	Query: "KU 20186 aves" ; Times: 1
+	Query: "KUBI 31747" ; Times: 5
+	Query: "30246" ; Times: 1
+	Query: "KU 20225 aves" ; Times: 1
+	Query: "specificepithet:nigrocapitata (18040) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "165757" ; Times: 1
+	Query: "34415" ; Times: 2
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "Presque Isle" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "109455" ; Times: 1
+	Query: "Anas rubripes sex:male" ; Times: 1
+	Query: "1316 borneo" ; Times: 2
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas sex:female" ; Times: 1
+	Query: "September 29 Catharus" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus sex:female" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "genus:buccanodon (32372)" ; Times: 2
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus sex:male" ; Times: 1
+	Query: "specificepithet:dumetoria genus:Ficedula institutioncode:KU" ; Times: 2
+	Query: "Tyto alba ws OR wingspan OR wing+span" ; Times: 10
+	Query: "genus:Empidonax family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "KU 11150" ; Times: 2
+	Query: "48344" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "KUBI 1612" ; Times: 13
+	Query: "KUBI 1613" ; Times: 3
+	Query: "KUBI 1610" ; Times: 3
+	Query: "Xenospiza baileyi" ; Times: 5
+	Query: "genus:Riparia family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:Egretta" ; Times: 1
+	Query: "Pandion haliaetus ws OR wingspan OR wing+span" ; Times: 8
+	Query: "Antrostomus Texas" ; Times: 2
+	Query: "family:Vireonidae class:Aves preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sialia ws OR wingspan OR wing+span" ; Times: 3
+	Query: "KUBI 86244" ; Times: 2
+	Query: "KU Birds 104158" ; Times: 1
+	Query: "family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spelaeornis 15105" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "“Very heavy”" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 2
+	Query: "Scytalopus superciliaris" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:SARACURA genus:ARAMIDES country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella class:aves stateprovince:&#34;california&#34; year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cathartes ws OR wingspan OR wing+span" ; Times: 1
+	Query: "genus:Cyanocitta family:Corvidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "4740 family:Apodidae institutioncode:KU" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "prosopis" ; Times: 1
+	Query: "Sphenocichla humei" ; Times: 3
+	Query: "51361" ; Times: 1
+	Query: "Hirundo tahitica hastissue:1" ; Times: 2
+	Query: "165755" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dendrocincla institutioncode:KU" ; Times: 1
+	Query: "KU 15170 aves" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:male" ; Times: 1
+	Query: "Tissue 19430 institutioncode:KU" ; Times: 1
+	Query: "KU 8577" ; Times: 2
+	Query: "specificepithet:aedon genus:Troglodytes year &gt;= 1970 year &lt;= 2020 institutioncode:KU hastissue:1" ; Times: 2
+	Query: "family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "genus:Spizella county:&#34;Nye&#34;" ; Times: 1
+	Query: "ku 21289" ; Times: 2
+	Query: "Eurylaimus steerii" ; Times: 3
+	Query: "genus:Contopus institutioncode:KU" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:montana genus:brachypteryx hasmass:1" ; Times: 1
+	Query: "specificepithet:melanurus genus:ramphocaenus hasmass:1" ; Times: 2
+	Query: "vntype:specimen institutioncode:KU" ; Times: 1
+	Query: "sporophila intermedia" ; Times: 3
+	Query: "Texas Limnodromus scolopaceus" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "cyornis tickelliae" ; Times: 1
+	Query: "family:Ardeidae class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "3611" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Syma torotoro" ; Times: 4
+	Query: "ANSP 1316" ; Times: 1
+	Query: "Phalacrocorax auritus ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Leptodon cayanensis" ; Times: 4
+	Query: "(platt)" ; Times: 3
+	Query: "KU 6676 aves" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "Halcyon OR Todiramphus cinnamominus" ; Times: 1
+	Query: "“Very heavy” incubation" ; Times: 1
+	Query: "specificepithet:everetti genus:Hypsipetes country:&#34;philippines&#34;" ; Times: 2
+	Query: "Tissue genus:Zosterops country:&#34;Solomon*&#34; institutioncode:KU" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "KU 115925" ; Times: 2
+	Query: "KUBI 87821" ; Times: 1
+	Query: "KU 115928" ; Times: 2
+	Query: "specificepithet:dauurica genus:muscicapa country:&#34;philippines&#34;" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "Aplonis panayensis" ; Times: 3
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34; institutioncode:KU" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Strix varia ws OR wingspan OR wing+span" ; Times: 9
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "genus:buccanodon (8497)" ; Times: 1
+	Query: "genus:Thryothorus family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:oreortyx stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "Phylloscopidae" ; Times: 1
+	Query: "Amazona ochrocephala stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Krutzsch" ; Times: 1
+	Query: "specificepithet:aura genus:cathartes (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "LOS HAITISES" ; Times: 2
+	Query: "genus:oreortyx stateprovince:&#34;california&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen catalognumber:106641 institutioncode:KU" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "family:Cuculidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Ardeidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 2
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "zosterops everetti" ; Times: 1
+	Query: "Alcedo hercules" ; Times: 2
+	Query: "KU 20172" ; Times: 2
+	Query: "peru class:aves stateprovince:&#34;arequipa&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "38185" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "quiscalus lugubris" ; Times: 2
+	Query: "family:Cathartidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "specificepithet:cristata genus:cyanocitta institutioncode:KU hastissue:1" ; Times: 1
+	Query: "family:Turdidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Myrmornis torquata" ; Times: 3
+	Query: "specificepithet:galbula genus:Icterus family:Icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;Tamaulipas&#34;" ; Times: 2
+	Query: "specificepithet:cinereus genus:Contopus institutioncode:KU" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 6
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "genus:geokichla country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:Helmitheros class:aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "Todiramphus OR Halcyon chloris OR sacer &#34;Vanua Levu&#34;" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "specificepithet:tickelliae genus:cyornis hasmass:1" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "Amazona oratrix tamaulipas" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 3
+	Query: "16883" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 2
+	Query: "64666" ; Times: 1
+	Query: "genus:Xanthocephalus family:icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:palpebrosus genus:zosterops hasmass:1" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "family:Fringillidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "catalognumber:5605 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:mindanensis genus:Ptilocichla (19070) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "KU 18001 aves" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ignobilis genus:turdus hasmass:1" ; Times: 1
+	Query: "specificepithet:striaticeps genus:Macronus (14130) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "institutioncode:KU hastissue:1" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "genus:Hirundo family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eurylaimus steerii" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "KUBI roseicollis" ; Times: 2
+	Query: "129486" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:female" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "specificepithet:capitalis genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "Falco sparverius ws OR wingspan OR wing+span" ; Times: 9
+	Query: "10041" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "16461 institutioncode:KU" ; Times: 2
+	Query: "family:phasianidae class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Zenaida macroura ws OR wingspan OR wing+span" ; Times: 9
+	Query: "family:Sittidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Myiarchus family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Toxostoma family:Mimidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Agelaius family:icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:female" ; Times: 1
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Buteo ws OR wingspan OR wing+span" ; Times: 3
+	Query: "specificepithet:poliocephala genus:Geothlypis hastissue:1" ; Times: 1
+	Query: "family:Scolopacidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "Todiramphus nigrocyaneus" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "KU 18001" ; Times: 1
+	Query: "specificepithet:guttatus genus:xiphorhynchus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "Accipiter ws OR wingspan OR wing+span" ; Times: 2
+	Query: "120938" ; Times: 1
+	Query: "specificepithet:auricularis genus:myiornis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "specificepithet:fasciata genus:Patagioenas stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:male" ; Times: 1
+	Query: "specificepithet:saracura genus:aramides family:rallidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "12267 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:spurius genus:Icterus family:Icteridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus sex:female" ; Times: 1
+	Query: "genus:Stelgidopteryx family:Hirundinidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Sporophila palustris" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:dennistouni (20225) institutioncode:KU hastissue:1" ; Times: 1
+	Query: "genus:Helmitheros class:aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "12803 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:aedon genus:Troglodytes year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Thryomanes family:Troglodytidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "KU Birds 128006" ; Times: 1
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:gentilis county:&#34;cochise&#34;" ; Times: 1
+	Query: "KUBI 86119" ; Times: 2
+	Query: "KUBI 86118" ; Times: 2
+	Query: "KU 6094 aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:male" ; Times: 1
+	Query: "specificepithet:crinitus genus:Myiarchus class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "family:Columbidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "specificepithet:palustris genus:Sporophila sex:Male hassex:1 hastissue:1" ; Times: 1
+	Query: "poecile ovary" ; Times: 2
+	Query: "specificepithet:longicauda genus:Bartramia" ; Times: 1
+	Query: "Tissue 18001 specificepithet:whiteheadi institutioncode:KU" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:male" ; Times: 1
+	Query: "specificepithet:cayana genus:piaya stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "family:Parulidae stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "KU Birds 110776" ; Times: 1
+	Query: "genus:buccanodon (34708)" ; Times: 2
+	Query: "Texas Dendrocygna" ; Times: 2
+	Query: "specificepithet:ypecaha family:rallidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "family:Laridae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "specificepithet:striatus genus:accipiter stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "family:Charadriidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "KU 815" ; Times: 1
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Tissue 18203 institutioncode:KU" ; Times: 1
+	Query: "KUBI 86237" ; Times: 1
+	Query: "institutioncode:KU turtle" ; Times: 2
+	Query: "15579" ; Times: 1
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "catalognumber:7140 institutioncode:KU" ; Times: 3
+	Query: "f0ee084d-7b47-11e4-8ef3-782bcb9cd5b5" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "Athene cunicularia ws OR wingspan OR wing+span" ; Times: 10
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "accipiter striatus country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "family:Strigidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs" ; Times: 2
+	Query: "Larus delawarensis ws OR wingspan OR wing+span" ; Times: 9
+	Query: "catalognumber:89864 institutioncode:KU" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "family:Corvidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 8
+	Query: "KU 115923" ; Times: 3
+	Query: "genus:Tyrannus family:tyrannidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 2
+	Query: "79557" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 2
+	Query: "family:Anatidae class:Aves stateprovince:&#34;Kansas&#34; preparations:eggs institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 1106 download events in this period)
+Total number of records downloaded: 265424
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 9
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-15 ; Times: 4
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 6
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 6
+	Date: 2020-05-09 ; Times: 5
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 7
+	Date: 2020-05-06 ; Times: 12
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Amazona ochrocephala specificepithet:ochrocephala genus:Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:macropus genus:scytalopus" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Scytalopus superciliaris" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 1
+	Query: "vultur gryphus argentina" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "class:(aves OR Aves) institutioncode:KU" ; Times: 1
+	Query: "petechia" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "Emoia nigra" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pictus genus:Oreortyx stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:Aves institutioncode:KU" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "pipilo nebraska" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Phacellodomus maculipectus" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Tissue genus:Zosterops country:&#34;Solomon*&#34; institutioncode:KU" ; Times: 1
+	Query: "Hirundo tahitica hastissue:1" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 2
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "Eurylaimus steerii" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Geotrygon mystacea" ; Times: 2
+	Query: "Antrostomus Texas" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Aramberri" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "genus:Toxostoma stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Buccanodon duchaillui" ; Times: 1
+
+
+End of report.
