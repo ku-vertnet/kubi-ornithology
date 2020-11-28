@@ -1,0 +1,631 @@
+Report for Institution Code KU, Resource kubi_ornithology
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 742
+Number of records retrieved in searches: 9490
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 88
+	Country: Unknown ; Times: 23
+	Country: France ; Times: 3
+	Country: Peru ; Times: 27
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 4
+	Country: Ecuador ; Times: 20
+	Country: Bangladesh ; Times: 1
+	Country: Australia ; Times: 18
+	Country: Germany ; Times: 8
+	Country: Thailand ; Times: 2
+	Country: Hong Kong ; Times: 4
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 12
+	Country: Philippines ; Times: 8
+	Country: United States ; Times: 344
+	Country: New Zealand ; Times: 5
+	Country: Mexico ; Times: 59
+	Country: Uruguay ; Times: 5
+	Country: India ; Times: 9
+	Country: United Kingdom ; Times: 54
+	Country: Malaysia ; Times: 4
+	Country: Colombia ; Times: 8
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 10
+	Date: 2020-07-08 ; Times: 15
+	Date: 2020-07-21 ; Times: 57
+	Date: 2020-07-20 ; Times: 25
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-26 ; Times: 8
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 84
+	Date: 2020-07-01 ; Times: 17
+	Date: 2020-07-03 ; Times: 30
+	Date: 2020-07-02 ; Times: 39
+	Date: 2020-07-05 ; Times: 13
+	Date: 2020-07-04 ; Times: 18
+	Date: 2020-07-07 ; Times: 60
+	Date: 2020-07-06 ; Times: 52
+	Date: 2020-07-24 ; Times: 21
+	Date: 2020-07-23 ; Times: 21
+	Date: 2020-07-29 ; Times: 38
+	Date: 2020-07-18 ; Times: 11
+	Date: 2020-07-19 ; Times: 19
+	Date: 2020-07-12 ; Times: 4
+	Date: 2020-07-13 ; Times: 12
+	Date: 2020-07-10 ; Times: 29
+	Date: 2020-07-11 ; Times: 18
+	Date: 2020-07-16 ; Times: 19
+	Date: 2020-07-31 ; Times: 19
+	Date: 2020-07-14 ; Times: 28
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-15 ; Times: 30
+	Date: 2020-07-28 ; Times: 19
+	Date: 2020-07-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "101647" ; Times: 2
+	Query: "Todiramphus KU 128831" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "specificepithet:ignipectus genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "1366 institutioncode:KU" ; Times: 1
+	Query: "KU 32425" ; Times: 2
+	Query: "32839" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 5
+	Query: "Androdon" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Phylloscopus class:Aves" ; Times: 1
+	Query: "Todiramphus OR Halcyon palau KU hastissue:1" ; Times: 4
+	Query: "specificepithet:occidentalis locality:Onion" ; Times: 1
+	Query: "Zosterops rendovae" ; Times: 2
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "fratercula cirrhata" ; Times: 1
+	Query: "Todiramphus OR Halcyon cinnamominus KU hastissue:1" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji Lau hastissue:1 26411" ; Times: 1
+	Query: "KU 31594" ; Times: 2
+	Query: "81530" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:coerulescens genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "KU 18039" ; Times: 2
+	Query: "KU 32869" ; Times: 2
+	Query: "KU 4996" ; Times: 2
+	Query: "Halcyon OR Todiramphus Fiji Lau hastissue:1 119910" ; Times: 1
+	Query: "specificepithet:castaneiventris genus:monarcha institutioncode:KU" ; Times: 1
+	Query: "KU 134210" ; Times: 2
+	Query: "Rhinoptilus cinctus" ; Times: 5
+	Query: "locality:Dinkey county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Sorsogon&#34; country:&#34;Philippines&#34; institutioncode:KU" ; Times: 1
+	Query: "cyanistes mongolia" ; Times: 4
+	Query: "KU 19664" ; Times: 2
+	Query: "5867 aves" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "JR 203" ; Times: 1
+	Query: "locality:Teton County" ; Times: 2
+	Query: "nhm london" ; Times: 2
+	Query: "catalognumber:32819 institutioncode:KU" ; Times: 1
+	Query: "Symposiachrus browni hastissue:1" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "Manucodia ater" ; Times: 2
+	Query: "specificepithet:affinis genus:euphonia hastissue:1" ; Times: 2
+	Query: "ku 12395" ; Times: 1
+	Query: "Icterus Barber vntype:specimen institutioncode:KU basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "spinus tristis" ; Times: 3
+	Query: "specificepithet:pammelaena genus:Myzomela year &gt;= 1990 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "KU 15377" ; Times: 2
+	Query: "country:&#34;indonesia&#34; institutioncode:KU" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "symposiachrus verticalis" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia institutioncode:KU" ; Times: 1
+	Query: "11614" ; Times: 1
+	Query: "rio leon colombia" ; Times: 1
+	Query: "Zosterops palpebrosus ku" ; Times: 1
+	Query: "specificepithet:bicolor genus:dicaeum country:&#34;philippines&#34;" ; Times: 4
+	Query: "apple" ; Times: 1
+	Query: "aegithalos ovary" ; Times: 1
+	Query: "KU 95164" ; Times: 2
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 4
+	Query: "Manatee" ; Times: 1
+	Query: "KU 14052" ; Times: 2
+	Query: "buteo harlani 1879" ; Times: 1
+	Query: "specificepithet:naumanni genus:Turdus hastissue:1" ; Times: 1
+	Query: "Vanellus tectus" ; Times: 6
+	Query: "KU 8495" ; Times: 2
+	Query: "112728" ; Times: 1
+	Query: "genus:Laterallus family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "recordedby:Labedz" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 5
+	Query: "ensifera ensifera aves south america" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Todiramphus OR Halcyon palau KU NOT cinnamominus hastissue:1" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "KU 34252" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "jalapa nicaragua" ; Times: 1
+	Query: "64731 aves" ; Times: 1
+	Query: "KU 23345" ; Times: 2
+	Query: "AMNH 8199" ; Times: 2
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "ranas" ; Times: 1
+	Query: "Aerodramus vulcanorum" ; Times: 3
+	Query: "passeriformes spleen" ; Times: 4
+	Query: "KU 15756" ; Times: 2
+	Query: "Halcyon OR Todiramphus OR Todirhampus Santa Cruz" ; Times: 2
+	Query: "KU 17777" ; Times: 2
+	Query: "parus major ovary" ; Times: 1
+	Query: "SP 22149" ; Times: 2
+	Query: "country:&#34;India&#34; ovary" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Aphelocoma woodhouseii" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio institutioncode:KU" ; Times: 1
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:88482 institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Buteo harlani" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "genus:Colluricincla institutioncode:KU" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "Pericrocotus solaris" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "10409 aethopyga" ; Times: 2
+	Query: "dendrocopos leucotos" ; Times: 3
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "Halcyon OR Todiramphus OR Todirhampus Temotu OR Santa Cruz" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "KU 14222" ; Times: 2
+	Query: "fieldnumber:3230 institutioncode:KU" ; Times: 1
+	Query: "candida institutioncode:KU hastissue:1" ; Times: 1
+	Query: "117361" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "myrmophylax" ; Times: 1
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "sapayoa" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "cyanistes ovary" ; Times: 1
+	Query: "KU 33806" ; Times: 1
+	Query: "101571" ; Times: 1
+	Query: "class:aves country:&#34;argentina&#34; year &gt;= 1953 year &lt;= 1953" ; Times: 2
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 4
+	Query: "Psittacara maugei" ; Times: 7
+	Query: "fieldnumber:2451" ; Times: 1
+	Query: "KU 17746" ; Times: 2
+	Query: "locality:grande stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "ku 10347 aves" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina country:&#34;United States&#34; institutioncode:KU" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 6
+	Query: "10347" ; Times: 1
+	Query: "rio Chigorodo" ; Times: 1
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "Attila torridus" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Pachycephala stateprovince:&#34;Western Australia&#34; institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Todiramphus winchelli" ; Times: 1
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 3
+	Query: "134064?" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pulcherrima country:&#34;philippines&#34;" ; Times: 3
+	Query: "KU 142 MERIDIONALIS" ; Times: 1
+	Query: "remiz coronatus" ; Times: 2
+	Query: "poecile montanus ovary" ; Times: 1
+	Query: "KU 7868" ; Times: 2
+	Query: "Halcyon OR Todiramphus Fiji hastissue:1 26338" ; Times: 1
+	Query: "genus:hypocryptadius country:&#34;philippines&#34;" ; Times: 1
+	Query: "tachycineta meyeni" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji hastissue:1" ; Times: 3
+	Query: "Colaptes pitius" ; Times: 5
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "Accipiter rufitorques" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 2
+	Query: "102990" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Santa Cruz hastissue:1" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "KU 134450" ; Times: 2
+	Query: "fieldnumber:6388" ; Times: 1
+	Query: "specificepithet:verticalis genus:symposiachrus institutioncode:KU" ; Times: 1
+	Query: "elminia nigromitrata" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "catalognumber:57565 institutioncode:KU" ; Times: 1
+	Query: "ku 33255" ; Times: 2
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "fieldnumber:7111 institutioncode:KU" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "anwc year &gt; 1990 climacteris rufus" ; Times: 1
+	Query: "KU 14223" ; Times: 2
+	Query: "23631 KU" ; Times: 2
+	Query: "Apus nipalensis" ; Times: 2
+	Query: "KU 28606" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "KU 4987" ; Times: 2
+	Query: "genus:symposiachrus institutioncode:KU" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "gbifdatasetid:e635240a-3cb1-4d26-ab87-57d8c7afdfdb" ; Times: 3
+	Query: "specificepithet:uropygialis genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "apus nipalensis" ; Times: 2
+	Query: "Mark hazel" ; Times: 6
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 3
+	Query: "KU 134356" ; Times: 2
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Stilpnia larvata" ; Times: 1
+	Query: "Macroagelaius" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "recordedby:browne year &lt;= 2013 institutioncode:KU" ; Times: 1
+	Query: "family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 4
+	Query: "40514" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "Tricholaema hirsuta" ; Times: 1
+	Query: "Ardea alba alba" ; Times: 1
+	Query: "Balaeniceps" ; Times: 2
+	Query: "KU 11263" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis" ; Times: 1
+	Query: "ku Zosterops splendidus" ; Times: 1
+	Query: "Psittacus erithacus timneh" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "institutioncode:KU" ; Times: 5
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "catalognumber:100899 institutioncode:KU" ; Times: 1
+	Query: "institutioncode:KU and Colibri thalassinus" ; Times: 1
+	Query: "KU 17707" ; Times: 2
+	Query: "KU 2075 amblycercus" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:mystacalis genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "aves spleen" ; Times: 8
+	Query: "Halcyon OR Todiramphus locality:Tutuila" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 8
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "KU 8646 aves" ; Times: 1
+	Query: "catalognumber:95416 institutioncode:KU" ; Times: 1
+	Query: "KU 24437" ; Times: 1
+	Query: "KU 2075 aves" ; Times: 1
+	Query: "Halcyon OR Todiramphus Vanuvatu hastissue:1" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;nayarit&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina institutioncode:KU" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "genus:machetornis" ; Times: 5
+	Query: "specificepithet:marshalli genus:megascops" ; Times: 1
+	Query: "specificepithet:limicola genus:rallus family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "KU 2075" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 3
+	Query: "specificepithet:affinis genus:euphonia country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "Rabor KU" ; Times: 2
+	Query: "Halcyon OR Todiramphus Fiji Lau hastissue:1" ; Times: 5
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "genus:Tympanuchus recordedby:Labedz" ; Times: 3
+	Query: "specificepithet:pulchella genus:Myzomela year &gt;= 1990 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "country:&#34;Philippines&#34; recordedby:brown institutioncode:KU" ; Times: 1
+	Query: "megaceryle torquata" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus Rennell" ; Times: 2
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "13364" ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "Bio" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Temotu" ; Times: 2
+	Query: "Setophaga petechia" ; Times: 1
+	Query: "KU 12633" ; Times: 2
+	Query: "KU 12634" ; Times: 2
+	Query: "Camptorhynchus labradorius" ; Times: 2
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "ku 17751" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricollis genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "surinamensis" ; Times: 2
+	Query: "KU Birds 113189" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon humii" ; Times: 1
+	Query: "catalognumber:67281 institutioncode:KU" ; Times: 2
+	Query: "Eggs specificepithet:virginianus genus:Colinus" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Tau KU" ; Times: 1
+	Query: "KU 23851" ; Times: 1
+	Query: "Camarines Norte" ; Times: 2
+	Query: "specificepithet:cucullatus country:&#34;philippines&#34;" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "KU 19907" ; Times: 2
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "12348" ; Times: 1
+	Query: "ku 14015" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "Spelaeornis chocolatinus" ; Times: 3
+	Query: "genus:copsychus year &gt;= 1995 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji Lau kabara hastissue:1" ; Times: 2
+	Query: "70414" ; Times: 1
+	Query: "recordedby:browne institutioncode:KU" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhamphus locality:Tutuila" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Podiceps preparations:eggs" ; Times: 1
+	Query: "numenius americanus" ; Times: 1
+	Query: "specificepithet:niger genus:copsychus year &gt;= 1995 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "KU 10313" ; Times: 2
+	Query: "specificepithet:clarae genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "KU 23326" ; Times: 2
+	Query: "KU 134104" ; Times: 2
+	Query: "KU 23325" ; Times: 2
+	Query: "KU 23320" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 2
+	Query: "Halcyon OR Todiramphus OR Todirhampus TEMOTU" ; Times: 1
+	Query: "Timalia pileata" ; Times: 4
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "KU 15678" ; Times: 2
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "2201" ; Times: 1
+	Query: "85227" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Pachycephala stateprovince:&#34;Western Australia&#34; institutioncode:KU" ; Times: 1
+	Query: "specificepithet:chrysopterus genus:Cacicus hastissue:1" ; Times: 2
+	Query: "Todiramphus OR Halcyon palau cinnamominus KU hastissue:1" ; Times: 1
+	Query: "KU 29500" ; Times: 4
+	Query: "KU 29501" ; Times: 2
+	Query: "KU 29502" ; Times: 1
+	Query: "catalognumber:3230 institutioncode:KU" ; Times: 1
+	Query: "class:aves recordedby:goss" ; Times: 1
+	Query: "genus:Myzomela year &gt;= 1990 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Makira" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "nhm Brazil types" ; Times: 1
+	Query: "fieldnumber:1310 institutioncode:KU" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "phainoptila" ; Times: 1
+	Query: "Artemisia" ; Times: 1
+	Query: "101352" ; Times: 2
+	Query: "catalognumber:7111 institutioncode:KU" ; Times: 1
+	Query: "umbagog" ; Times: 1
+	Query: "Wyoming Moose" ; Times: 1
+	Query: "ku 27232" ; Times: 1
+	Query: "KU 12319" ; Times: 2
+	Query: "KU 12317" ; Times: 2
+	Query: "chroicocephalus philadelphia" ; Times: 6
+	Query: "piranga flava" ; Times: 1
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "KU 15507" ; Times: 2
+	Query: "23630" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 4
+	Query: "Symposiachrus 2019 hastissue:1" ; Times: 2
+	Query: "Todiramphus OR Halcyon cinnamominus KU" ; Times: 1
+	Query: "specificepithet:cyanea genus:Chlorophonia institutioncode:KU" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "family:Apodidae institutioncode:KU" ; Times: 3
+	Query: "pitta anerythra" ; Times: 1
+	Query: "catalognumber:57864 institutioncode:KU" ; Times: 1
+	Query: "Cinnamominus KU" ; Times: 1
+	Query: "specificepithet:luzoniensis genus:copsychus year &gt;= 1995 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "Siargao (Birds)" ; Times: 3
+	Query: "Halcyon OR Todiramphus hastissue:1 26439" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "Halcyon OR Todiramphus Fiji hastissue:1 26439" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "ku aves 14015" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Rennell KU" ; Times: 3
+	Query: "hylexetastes" ; Times: 1
+	Query: "specificepithet:viridifacies country:&#34;philippines&#34;" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "87481" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "102105" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "23690 KU" ; Times: 1
+	Query: "KU 134423" ; Times: 2
+	Query: "Todiramphus OR Halcyon palau KU hastissue:1 23651" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:KU" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "101273" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "genus:Pachycephala stateprovince:&#34;Western Australia&#34; institutioncode:KU" ; Times: 1
+	Query: "KU 142" ; Times: 1
+	Query: "Buteo harlani Arizona" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Todiramphus OR Halcyon palau KU 23630 hastissue:1" ; Times: 2
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "Cherokee kansas" ; Times: 1
+	Query: "Halcyon OR Todiramphus OR Todirhampus Ofu KU" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "genus:coturnicops family:Rallidae class:Aves stateprovince:&#34;Kansas&#34; institutioncode:KU" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "specificepithet:minor genus:aplonis country:&#34;philippines&#34;" ; Times: 1
+	Query: "pipra chloromeros" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji Lau Vuagava hastissue:1" ; Times: 1
+	Query: "Thalasseus acuflavidus" ; Times: 4
+	Query: "KU 32481" ; Times: 2
+	Query: "ku 19966" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 9
+	Query: "Corvus corax" ; Times: 2
+	Query: "Rabi" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 2
+	Query: "ku 15931" ; Times: 1
+	Query: "Euphorbia" ; Times: 1
+	Query: "river Chiriqui" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji Vanuvatu hastissue:1" ; Times: 2
+	Query: "Halcyon OR Todiramphus OR Todirhampus Rennell" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "KU 28578" ; Times: 1
+	Query: "Todiramphus OR Halcyon palau cinnamominus KU hastissue:1 23662" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 7
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "Hypsipetes siquijorensis" ; Times: 1
+	Query: "specificepithet:anthonyi genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "Thalasseus bergii" ; Times: 3
+	Query: "RMB 1280" ; Times: 2
+	Query: "Halcyon OR Todiramphus OR Todirhampus Temotu OR Santa Cruz NOT Philippines" ; Times: 1
+	Query: "KU 8646" ; Times: 1
+	Query: "specificepithet:angustifrons genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "dryocopus javensis" ; Times: 2
+	Query: "Aserradero Moira" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "geocerthia" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciolata genus:Crax class:aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:cebuensis genus:copsychus year &gt;= 1995 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "Sporophila palustris" ; Times: 1
+	Query: "specificepithet:saularis genus:copsychus year &gt;= 1995 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "specificepithet:chlorotica genus:Euphonia institutioncode:KU hastissue:1" ; Times: 1
+	Query: "KU 23339" ; Times: 2
+	Query: "specificepithet:sclateri genus:Myzomela year &gt;= 1990 year &lt;= 2020 institutioncode:KU" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "KU 134057" ; Times: 2
+	Query: "KU 21629" ; Times: 2
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "KU 18181" ; Times: 2
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "specificepithet:megarhyncha genus:colluricincla institutioncode:KU" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Tyrannus dominicensis" ; Times: 1
+	Query: "KU 134094" ; Times: 2
+	Query: "Hierococcyx sparverioides" ; Times: 1
+	Query: "alticola" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "turtle data" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji Lau kabara hastissue:1 26410" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "KU 12806" ; Times: 2
+	Query: "Megazosterops" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "101467" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji" ; Times: 1
+	Query: "Oenanthe deserti" ; Times: 1
+	Query: "septentrionalis quebec" ; Times: 1
+	Query: "fieldnumber:1366 institutioncode:KU" ; Times: 2
+	Query: "46505" ; Times: 1
+	Query: "23630 KU" ; Times: 2
+	Query: "genus:Colluricincla country:&#34;Papua New Guinea&#34; institutioncode:KU" ; Times: 1
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "KU 4092" ; Times: 2
+	Query: "vntype:specimen specificepithet:angolensis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "27947" ; Times: 1
+	Query: "specificepithet:plateni country:&#34;philippines&#34;" ; Times: 1
+	Query: "genus:sitta country:&#34;philippines&#34;" ; Times: 1
+	Query: "limnodromus griseus" ; Times: 2
+	Query: "Cursorius temminckii" ; Times: 4
+	Query: "31031" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 940 download events in this period)
+Total number of records downloaded: 3676
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 7
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "family:Apodidae institutioncode:KU" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:KU" ; Times: 1
+	Query: "Siargao (Birds)" ; Times: 1
+	Query: "Icterus Barber vntype:specimen institutioncode:KU basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Halcyon OR Todiramphus Fiji hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rabor KU" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Euphagus carolinus" ; Times: 1
+
+
+End of report.
